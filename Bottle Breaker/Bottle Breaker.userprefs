@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SceneManager.cs">
+    <Files>
+      <File FileName="Assets\TryAgain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stone.cs" Line="21" Column="47" />
+      <File FileName="Assets\Scripts\Paddle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreKeeper.cs" Line="11" Column="28" />
+      <File FileName="Assets\Scripts\SceneManager.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\NewLoseCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoseCollider.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
