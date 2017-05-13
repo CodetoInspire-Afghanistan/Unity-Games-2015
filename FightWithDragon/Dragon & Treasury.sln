@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{940CC493-D7C4-3EB5-F011-E51FE43C567F}") = "Dragon & Treasury", "Assembly-CSharp.csproj", "{1CE76FC2-9566-CA85-9E55-937EE0F4C550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE76FC2-9566-CA85-9E55-937EE0F4C550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE76FC2-9566-CA85-9E55-937EE0F4C550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE76FC2-9566-CA85-9E55-937EE0F4C550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE76FC2-9566-CA85-9E55-937EE0F4C550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

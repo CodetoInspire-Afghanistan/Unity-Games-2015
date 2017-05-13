@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DD7BD8D1-B83F-423A-3CE6-BF9D53575C43}") = "PlanetsProtect", "Assembly-CSharp.csproj", "{3BDBE53B-0D19-69EC-3030-F0281944DDD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDBE53B-0D19-69EC-3030-F0281944DDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDBE53B-0D19-69EC-3030-F0281944DDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDBE53B-0D19-69EC-3030-F0281944DDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDBE53B-0D19-69EC-3030-F0281944DDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

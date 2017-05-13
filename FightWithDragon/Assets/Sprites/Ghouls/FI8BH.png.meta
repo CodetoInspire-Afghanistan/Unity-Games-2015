@@ -1,0 +1,2121 @@
+fileFormatVersion: 2
+guid: 4862f7f25bf275646bf8b4e3d2d7641f
+timeCreated: 1461761290
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FI8BH_0
+    21300002: FI8BH_1
+    21300004: FI8BH_2
+    21300006: FI8BH_3
+    21300008: FI8BH_4
+    21300010: FI8BH_5
+    21300012: FI8BH_6
+    21300014: FI8BH_7
+    21300016: FI8BH_8
+    21300018: FI8BH_9
+    21300020: FI8BH_10
+    21300022: FI8BH_11
+    21300024: FI8BH_12
+    21300026: FI8BH_13
+    21300028: FI8BH_14
+    21300030: FI8BH_15
+    21300032: FI8BH_16
+    21300034: FI8BH_17
+    21300036: FI8BH_18
+    21300038: FI8BH_19
+    21300040: FI8BH_20
+    21300042: FI8BH_21
+    21300044: FI8BH_22
+    21300046: FI8BH_23
+    21300048: FI8BH_24
+    21300050: FI8BH_25
+    21300052: FI8BH_26
+    21300054: FI8BH_27
+    21300056: FI8BH_28
+    21300058: FI8BH_29
+    21300060: FI8BH_30
+    21300062: FI8BH_31
+    21300064: FI8BH_32
+    21300066: FI8BH_33
+    21300068: FI8BH_34
+    21300070: FI8BH_35
+    21300072: FI8BH_36
+    21300074: FI8BH_37
+    21300076: FI8BH_38
+    21300078: FI8BH_39
+    21300080: FI8BH_40
+    21300082: FI8BH_41
+    21300084: FI8BH_42
+    21300086: FI8BH_43
+    21300088: FI8BH_44
+    21300090: FI8BH_45
+    21300092: FI8BH_46
+    21300094: FI8BH_47
+    21300096: FI8BH_48
+    21300098: FI8BH_49
+    21300100: FI8BH_50
+    21300102: FI8BH_51
+    21300104: FI8BH_52
+    21300106: FI8BH_53
+    21300108: FI8BH_54
+    21300110: FI8BH_55
+    21300112: FI8BH_56
+    21300114: FI8BH_57
+    21300116: FI8BH_58
+    21300118: FI8BH_59
+    21300120: FI8BH_60
+    21300122: FI8BH_61
+    21300124: FI8BH_62
+    21300126: FI8BH_63
+    21300128: FI8BH_64
+    21300130: FI8BH_65
+    21300132: FI8BH_66
+    21300134: FI8BH_67
+    21300136: FI8BH_68
+    21300138: FI8BH_69
+    21300140: FI8BH_70
+    21300142: FI8BH_71
+    21300144: FI8BH_72
+    21300146: FI8BH_73
+    21300148: FI8BH_74
+    21300150: FI8BH_75
+    21300152: FI8BH_76
+    21300154: FI8BH_77
+    21300156: FI8BH_78
+    21300158: FI8BH_79
+    21300160: FI8BH_80
+    21300162: FI8BH_81
+    21300164: FI8BH_82
+    21300166: FI8BH_83
+    21300168: FI8BH_84
+    21300170: FI8BH_85
+    21300172: FI8BH_86
+    21300174: FI8BH_87
+    21300176: FI8BH_88
+    21300178: FI8BH_89
+    21300180: FI8BH_90
+    21300182: FI8BH_91
+    21300184: FI8BH_92
+    21300186: FI8BH_93
+    21300188: FI8BH_94
+    21300190: FI8BH_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FI8BH_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 675
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 674
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 675
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 676
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 675
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 676
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 675
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 674
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 675
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 675
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_10
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 674
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_11
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 675
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 578
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 578
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 579
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 579
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 579
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 578
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_19
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 578
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 578
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_21
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 578
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 578
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_23
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 578
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 483
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 484
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 485
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 484
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_30
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 483
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_31
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 484
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 483
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_33
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 483
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_34
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 484
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_35
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 483
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 387
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_40
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 387
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_41
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_42
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_43
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 387
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_44
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_45
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_46
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 387
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_47
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 388
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_50
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 292
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 293
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 292
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_53
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 293
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 292
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_55
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 291
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_56
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 292
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_57
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 292
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -43.5, y: -35.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 38.5, y: -45.5}
+        - {x: 43.5, y: -28.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 35.5, y: 45.5}
+    - name: FI8BH_58
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 291
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 36}
+        - {x: 25.5, y: 45}
+        - {x: -32.5, y: 45}
+        - {x: -46.5, y: 11}
+        - {x: -46.5, y: -25}
+        - {x: -29.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 46.5, y: -14}
+        - {x: 46.5, y: 7}
+    - name: FI8BH_59
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 292
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -22.5}
+        - {x: -37.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 43.5, y: -24.5}
+        - {x: 43.5, y: 27.5}
+        - {x: 19.5, y: 45.5}
+    - name: FI8BH_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 195
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 195
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_63
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 196
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 196
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_65
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 196
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_66
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 195
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 195
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_68
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 195
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_69
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 195
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -15.5}
+        - {x: -21, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 13.5}
+        - {x: 34, y: 38.5}
+        - {x: 14, y: 45.5}
+    - name: FI8BH_70
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 195
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 45}
+        - {x: -46.5, y: -18}
+        - {x: -27.5, y: -40}
+        - {x: -9.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 46.5, y: -23}
+        - {x: 46.5, y: 7}
+        - {x: 34.5, y: 45}
+    - name: FI8BH_71
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 195
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 44.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -28.5}
+        - {x: -25, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: 27.5}
+        - {x: 32, y: 44.5}
+    - name: FI8BH_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_76
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 102
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 101
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_78
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 100
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_79
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 101
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_80
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 100
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_81
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 100
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 44.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -46.5, y: -44.5}
+        - {x: 32.5, y: -44.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 44.5}
+    - name: FI8BH_82
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 101
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: -24}
+        - {x: -39.5, y: -38}
+        - {x: -21.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 46.5, y: -13}
+        - {x: 46.5, y: 45}
+    - name: FI8BH_83
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 100
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 45.5}
+        - {x: -23, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -47, y: 1.5}
+        - {x: -47, y: -0.5}
+        - {x: -42, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: -23, y: -2.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -10.5}
+        - {x: -40, y: -17.5}
+        - {x: -31, y: -22.5}
+        - {x: -32, y: -29.5}
+        - {x: -32, y: -45.5}
+        - {x: 29, y: -45.5}
+        - {x: 39, y: -23.5}
+        - {x: 47, y: 1.5}
+        - {x: 47, y: 34.5}
+    - name: FI8BH_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_87
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_88
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_89
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_90
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_91
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_92
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    - name: FI8BH_93
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 43}
+        - {x: 24.5, y: 46}
+        - {x: -32.5, y: 46}
+        - {x: -35.5, y: 44}
+        - {x: -39.5, y: 17}
+        - {x: -39.5, y: -19}
+        - {x: -19.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: 22.5, y: -40}
+        - {x: 39.5, y: -19}
+        - {x: 39.5, y: 12}
+    - name: FI8BH_94
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -9.5}
+        - {x: 45.5, y: -9.5}
+        - {x: 45.5, y: 16.5}
+        - {x: 31.5, y: 46.5}
+        - {x: -31.5, y: 46.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 40.5, y: -12.5}
+        - {x: 41.5, y: -5.5}
+    - name: FI8BH_95
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 4
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -20}
+        - {x: -25.5, y: -36}
+        - {x: 4.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 39.5, y: -16}
+        - {x: 39.5, y: 23}
+        - {x: 37.5, y: 46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

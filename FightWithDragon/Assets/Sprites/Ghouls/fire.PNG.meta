@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 95ea0929defca714abf348f34113ed6d
+timeCreated: 1459957388
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_0
+    21300002: fire_1
+    21300004: fire_2
+    21300006: fire_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 42}
+        - {x: -22.5, y: 39}
+        - {x: -22.5, y: -38}
+        - {x: -13.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 22.5, y: -47}
+        - {x: 22.5, y: 40}
+        - {x: 18.5, y: 42}
+      - - {x: 1.5, y: 46}
+        - {x: 1.5, y: 48}
+        - {x: -3.5, y: 48}
+        - {x: -1.5, y: 45}
+    - name: fire_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 14
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 46}
+        - {x: -23, y: -29}
+        - {x: -20, y: -42}
+        - {x: -10, y: -46}
+        - {x: 14, y: -46}
+        - {x: 23, y: -24}
+        - {x: 23, y: 46}
+    - name: fire_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fire_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -52.5}
+        - {x: -27, y: -52.5}
+        - {x: -27, y: -50.5}
+        - {x: -29, y: -48.5}
+        - {x: -32, y: -49.5}
+      - - {x: -14, y: -43.5}
+        - {x: -12, y: -45.5}
+        - {x: -9, y: -44.5}
+        - {x: -9, y: -41.5}
+        - {x: -11, y: -39.5}
+        - {x: -14, y: -40.5}
+      - - {x: -25, y: 52.5}
+        - {x: -33, y: 49.5}
+        - {x: -33, y: -14.5}
+        - {x: -30, y: -36.5}
+        - {x: -15, y: -41.5}
+        - {x: -3, y: -41.5}
+        - {x: 3, y: -31.5}
+        - {x: 20, y: 7.5}
+        - {x: 33, y: 36.5}
+        - {x: 33, y: 52.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

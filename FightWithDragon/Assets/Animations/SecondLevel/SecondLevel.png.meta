@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: aaaa092d74c1dd04ebf0cf9f01ac01de
+timeCreated: 1461037859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SecondLevel_0
+    21300002: SecondLevel_1
+    21300004: SecondLevel_2
+    21300006: SecondLevel_3
+    21300008: SecondLevel_4
+    21300010: SecondLevel_5
+    21300012: SecondLevel_6
+    21300014: SecondLevel_7
+    21300016: SecondLevel_8
+    21300018: SecondLevel_9
+    21300020: SecondLevel_10
+    21300022: SecondLevel_11
+    21300024: SecondLevel_12
+    21300026: SecondLevel_13
+    21300028: SecondLevel_14
+    21300030: SecondLevel_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SecondLevel_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 293
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 39.5}
+        - {x: -46.5, y: -26.5}
+        - {x: -43.5, y: -39.5}
+        - {x: 41.5, y: -39.5}
+        - {x: 46.5, y: -11.5}
+        - {x: 46.5, y: 39.5}
+    - name: SecondLevel_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 294
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 40}
+        - {x: -33, y: -25}
+        - {x: -8, y: -40}
+        - {x: 13, y: -40}
+        - {x: 33, y: -28}
+        - {x: 33, y: 40}
+    - name: SecondLevel_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 293
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 39.5}
+        - {x: -47.5, y: 6.5}
+        - {x: -36.5, y: -21.5}
+        - {x: -10.5, y: -39.5}
+        - {x: 18.5, y: -39.5}
+        - {x: 43.5, y: -16.5}
+        - {x: 47.5, y: 16.5}
+        - {x: 47.5, y: 39.5}
+      - - {x: 44.5, y: -25.5}
+        - {x: 46.5, y: -27.5}
+        - {x: 47.5, y: -27.5}
+        - {x: 47.5, y: -22.5}
+        - {x: 45.5, y: -22.5}
+    - name: SecondLevel_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 293
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 40}
+        - {x: -33, y: -25}
+        - {x: -8, y: -40}
+        - {x: 13, y: -40}
+        - {x: 33, y: -28}
+        - {x: 33, y: 40}
+    - name: SecondLevel_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -18}
+        - {x: 42, y: -16}
+        - {x: 45, y: -16}
+        - {x: 45, y: -5}
+        - {x: 31, y: 22}
+        - {x: -4, y: 34}
+        - {x: -24, y: 34}
+        - {x: -41, y: 14}
+        - {x: -45, y: 7}
+        - {x: -45, y: -34}
+        - {x: 29, y: -34}
+        - {x: 35, y: -24}
+        - {x: 36, y: -21}
+        - {x: 37, y: -17}
+    - name: SecondLevel_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 209
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 39.5}
+        - {x: -41.5, y: 39.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -31.5}
+        - {x: -32.5, y: -39.5}
+        - {x: 27.5, y: -39.5}
+        - {x: 43.5, y: -21.5}
+        - {x: 43.5, y: 4.5}
+    - name: SecondLevel_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -42, y: 18}
+        - {x: -45, y: 4}
+        - {x: -45, y: -30}
+        - {x: -36, y: -35}
+        - {x: 23, y: -35}
+        - {x: 45, y: -28}
+        - {x: 45, y: 7}
+        - {x: 3, y: 35}
+    - name: SecondLevel_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 208
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 39.5}
+        - {x: -38, y: 18.5}
+        - {x: -43, y: 2.5}
+        - {x: -43, y: -37.5}
+        - {x: -40, y: -39.5}
+        - {x: 32, y: -39.5}
+        - {x: 43, y: -36.5}
+        - {x: 43, y: 13.5}
+        - {x: 32, y: 39.5}
+    - name: SecondLevel_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 115
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -31}
+        - {x: 41, y: -28}
+        - {x: 45, y: -22}
+        - {x: 45, y: 6}
+        - {x: 32, y: 34}
+        - {x: 5, y: 34}
+        - {x: -45, y: -1}
+        - {x: -45, y: -16}
+        - {x: -36, y: -17}
+        - {x: -36, y: -15}
+        - {x: -31, y: -14}
+        - {x: -33, y: -14}
+        - {x: -36, y: -18}
+        - {x: -38, y: -22}
+        - {x: -18, y: -34}
+        - {x: -8, y: -34}
+        - {x: -4, y: -30}
+        - {x: 8, y: -34}
+        - {x: 28, y: -34}
+    - name: SecondLevel_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 39.5}
+        - {x: -43.5, y: -1.5}
+        - {x: -43.5, y: -24.5}
+        - {x: -16.5, y: -39.5}
+        - {x: 31.5, y: -39.5}
+        - {x: 43.5, y: -27.5}
+        - {x: 43.5, y: 19.5}
+        - {x: 31.5, y: 39.5}
+    - name: SecondLevel_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 118
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 35}
+        - {x: -9, y: 35}
+        - {x: -45, y: -1}
+        - {x: -45, y: -18}
+        - {x: -36, y: -17}
+        - {x: -36, y: -15}
+        - {x: -31, y: -14}
+        - {x: -33, y: -14}
+        - {x: -37, y: -19}
+        - {x: -40, y: -23}
+        - {x: -22, y: -35}
+        - {x: 41, y: -35}
+        - {x: 45, y: -33}
+        - {x: 45, y: 10}
+        - {x: 40, y: 28}
+    - name: SecondLevel_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 112
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 39.5}
+        - {x: -42.5, y: -1.5}
+        - {x: -42.5, y: -24.5}
+        - {x: -15.5, y: -39.5}
+        - {x: 35.5, y: -39.5}
+        - {x: 42.5, y: -30.5}
+        - {x: 42.5, y: 25.5}
+        - {x: 33.5, y: 39.5}
+    - name: SecondLevel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 45}
+        - {x: -48, y: -16}
+        - {x: -43, y: -39}
+        - {x: -15, y: -45}
+        - {x: 11, y: -45}
+        - {x: 34, y: -36}
+        - {x: 48, y: 15}
+        - {x: 48, y: 45}
+    - name: SecondLevel_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 47.5}
+        - {x: -36, y: -43.5}
+        - {x: -20, y: -47.5}
+        - {x: 11, y: -47.5}
+        - {x: 32, y: -34.5}
+        - {x: 36, y: 5.5}
+        - {x: 36, y: 47.5}
+    - name: SecondLevel_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 45}
+        - {x: -44.5, y: -13}
+        - {x: -40.5, y: -36}
+        - {x: -7.5, y: -45}
+        - {x: 5.5, y: -45}
+        - {x: 37.5, y: -26}
+        - {x: 44.5, y: -3}
+        - {x: 44.5, y: 45}
+    - name: SecondLevel_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 47.5}
+        - {x: -36, y: -43.5}
+        - {x: -20, y: -47.5}
+        - {x: 11, y: -47.5}
+        - {x: 32, y: -34.5}
+        - {x: 36, y: 5.5}
+        - {x: 36, y: 47.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

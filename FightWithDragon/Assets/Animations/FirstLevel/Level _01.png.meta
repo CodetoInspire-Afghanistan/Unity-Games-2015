@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 6675cf1959908704aa0ce08d551a5a59
+timeCreated: 1460996107
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level _01_0
+    21300002: Level _01_1
+    21300004: Level _01_2
+    21300006: Level _01_3
+    21300008: Level _01_4
+    21300010: Level _01_5
+    21300012: Level _01_6
+    21300014: Level _01_7
+    21300016: Level _01_8
+    21300018: Level _01_9
+    21300020: Level _01_10
+    21300022: Level _01_11
+    21300024: Level _01_12
+    21300026: Level _01_13
+    21300028: Level _01_14
+    21300030: Level _01_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Level _01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 391
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 44}
+        - {x: -23, y: 44}
+        - {x: -45, y: 39}
+        - {x: -45, y: -16}
+        - {x: -13, y: -44}
+        - {x: 27, y: -44}
+        - {x: 43, y: -17}
+        - {x: 45, y: -4}
+        - {x: 45, y: 41}
+    - name: Level _01_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 391
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -46, y: -11.5}
+        - {x: -46, y: -36.5}
+        - {x: -41, y: -39.5}
+        - {x: 42, y: -39.5}
+        - {x: 46, y: -35.5}
+        - {x: 46, y: -19.5}
+        - {x: 14, y: 39.5}
+    - name: Level _01_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 390
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 44}
+        - {x: -23, y: 44}
+        - {x: -45, y: 39}
+        - {x: -45, y: -16}
+        - {x: -13, y: -44}
+        - {x: 27, y: -44}
+        - {x: 43, y: -17}
+        - {x: 45, y: -4}
+        - {x: 45, y: 41}
+    - name: Level _01_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 393
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 28}
+        - {x: 9, y: 44}
+        - {x: -29, y: 44}
+        - {x: -29, y: -41}
+        - {x: -25, y: -44}
+        - {x: 18, y: -44}
+        - {x: 29, y: -12}
+        - {x: 29, y: 35}
+        - {x: 21, y: 30}
+    - name: Level _01_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 30.5}
+        - {x: -44, y: 16.5}
+        - {x: -49, y: -2.5}
+        - {x: -49, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 49, y: -26.5}
+        - {x: 49, y: -7.5}
+        - {x: -1, y: 30.5}
+    - name: Level _01_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -49, y: 13}
+        - {x: -49, y: -18}
+        - {x: -38, y: -32}
+        - {x: 8, y: -32}
+        - {x: 49, y: -9}
+        - {x: 49, y: 27}
+        - {x: 27, y: 32}
+    - name: Level _01_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 288
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 30.5}
+        - {x: -44, y: 16.5}
+        - {x: -49, y: -2.5}
+        - {x: -49, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 49, y: -26.5}
+        - {x: 49, y: -7.5}
+        - {x: -1, y: 30.5}
+    - name: Level _01_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 288
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 37}
+        - {x: -48, y: -37}
+        - {x: 48, y: -37}
+        - {x: 48, y: 5}
+        - {x: 20, y: 37}
+    - name: Level _01_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 30.5}
+        - {x: 15, y: 30.5}
+        - {x: -49, y: -6.5}
+        - {x: -49, y: -22.5}
+        - {x: -29, y: -30.5}
+        - {x: 49, y: -30.5}
+        - {x: 49, y: -5.5}
+        - {x: 36, y: 22.5}
+    - name: Level _01_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 32}
+        - {x: -26, y: 32}
+        - {x: -49, y: 24}
+        - {x: -49, y: -5}
+        - {x: -48, y: -7}
+        - {x: 11, y: -32}
+        - {x: 24, y: -32}
+        - {x: 49, y: -14}
+        - {x: 49, y: 15}
+        - {x: 45, y: 24}
+    - name: Level _01_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 160
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 30.5}
+        - {x: 15, y: 30.5}
+        - {x: -49, y: -6.5}
+        - {x: -49, y: -22.5}
+        - {x: -29, y: -30.5}
+        - {x: 49, y: -30.5}
+        - {x: 49, y: -5.5}
+        - {x: 36, y: 22.5}
+    - name: Level _01_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 160
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 37}
+        - {x: -13, y: 34}
+        - {x: -48, y: -17}
+        - {x: -48, y: -37}
+        - {x: 48, y: -37}
+        - {x: 48, y: -19}
+        - {x: 32, y: 37}
+    - name: Level _01_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 43}
+        - {x: 16, y: 39}
+        - {x: 14, y: 33}
+        - {x: 18, y: 30}
+        - {x: 15, y: 32}
+        - {x: 9, y: 40}
+        - {x: 1, y: 43}
+        - {x: -4, y: 43}
+        - {x: -11, y: 40}
+        - {x: -16, y: 30}
+        - {x: -14, y: 36}
+        - {x: -29, y: 43}
+        - {x: -45, y: 43}
+        - {x: -45, y: 22}
+        - {x: -35, y: 8}
+        - {x: -16, y: -28}
+        - {x: -7, y: -43}
+        - {x: 9, y: -43}
+        - {x: 45, y: 15}
+        - {x: 45, y: 43}
+    - name: Level _01_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 13
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 41}
+        - {x: -28, y: -15}
+        - {x: -25, y: -38}
+        - {x: -22, y: -41}
+        - {x: 12, y: -41}
+        - {x: 21, y: -37}
+        - {x: 27, y: 5}
+        - {x: 28, y: 15}
+        - {x: 28, y: 41}
+    - name: Level _01_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 43}
+        - {x: 16, y: 39}
+        - {x: 14, y: 33}
+        - {x: 18, y: 30}
+        - {x: 15, y: 32}
+        - {x: 9, y: 40}
+        - {x: 1, y: 43}
+        - {x: -4, y: 43}
+        - {x: -11, y: 40}
+        - {x: -16, y: 30}
+        - {x: -14, y: 36}
+        - {x: -29, y: 43}
+        - {x: -45, y: 43}
+        - {x: -45, y: 22}
+        - {x: -35, y: 8}
+        - {x: -16, y: -28}
+        - {x: -7, y: -43}
+        - {x: 9, y: -43}
+        - {x: 45, y: 15}
+        - {x: 45, y: 43}
+    - name: Level _01_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 14
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 38.5}
+        - {x: -26.5, y: 38.5}
+        - {x: -46.5, y: 5.5}
+        - {x: -46.5, y: -30.5}
+        - {x: -18.5, y: -38.5}
+        - {x: 30.5, y: -38.5}
+        - {x: 46.5, y: -30.5}
+        - {x: 46.5, y: -5.5}
+        - {x: 43.5, y: 8.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

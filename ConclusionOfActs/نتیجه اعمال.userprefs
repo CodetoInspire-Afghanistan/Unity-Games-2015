@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TextController2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MusicPlayer.cs" Line="19" Column="50" />
+      <File FileName="Assets\Scripts\BadTextController1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BadTextController3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextController2.cs" Line="13" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

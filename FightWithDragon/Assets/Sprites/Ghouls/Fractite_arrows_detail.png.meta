@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 70fd08700d48f084cbb2a3876edc58a6
+timeCreated: 1461754970
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fractite_arrows_detail_0
+    21300002: Fractite_arrows_detail_1
+    21300004: Fractite_arrows_detail_2
+    21300006: Fractite_arrows_detail_3
+    21300008: Fractite_arrows_detail_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 270
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fractite_arrows_detail_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 92
+        width: 88
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -247.5}
+        - {x: 44, y: 286.5}
+        - {x: -18, y: 286.5}
+        - {x: -38, y: 256.5}
+        - {x: -44, y: -102.5}
+        - {x: -44, y: -223.5}
+        - {x: -41, y: -223.5}
+        - {x: -37, y: -268.5}
+        - {x: 1, y: -286.5}
+        - {x: 10, y: -286.5}
+        - {x: 14, y: -269.5}
+        - {x: 39, y: -261.5}
+        - {x: 38, y: -251.5}
+      - - {x: 40, y: -281.5}
+        - {x: 42, y: -283.5}
+        - {x: 44, y: -283.5}
+        - {x: 44, y: -276.5}
+        - {x: 41, y: -277.5}
+      - - {x: 41, y: 177.5}
+        - {x: 43, y: 175.5}
+        - {x: 44, y: 175.5}
+        - {x: 44, y: 182.5}
+        - {x: 41, y: 181.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 2d9d1234d7acbc44f800d5c418939109
+timeCreated: 1455961832
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 466_0
+    21300002: 466_1
+    21300004: 466_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 466_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 93
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 91}
+        - {x: -46.5, y: 72}
+        - {x: -46.5, y: -91}
+        - {x: 46.5, y: -91}
+        - {x: 46.5, y: 83}
+        - {x: 31.5, y: 91}
+    - name: 466_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4
+        width: 101
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 91}
+        - {x: -44.5, y: 86}
+        - {x: -44.5, y: -91}
+        - {x: 50.5, y: -91}
+        - {x: 50.5, y: 77}
+        - {x: 37.5, y: 91}
+      - - {x: -47.5, y: -53}
+        - {x: -47.5, y: -50}
+        - {x: -50.5, y: -49}
+        - {x: -50.5, y: -54}
+    - name: 466_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 108
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 67}
+        - {x: 38, y: 76}
+        - {x: 29, y: 86}
+        - {x: 19, y: 91}
+        - {x: -24, y: 91}
+        - {x: -46, y: 76}
+        - {x: -50, y: 58}
+        - {x: -50, y: 45}
+        - {x: -49, y: 29}
+        - {x: -44, y: 13}
+        - {x: -50, y: -48}
+        - {x: -50, y: -86}
+        - {x: -40, y: -91}
+        - {x: 42, y: -91}
+        - {x: 47, y: -84}
+        - {x: 47, y: 34}
+        - {x: 46, y: 62}
+      - - {x: 51, y: -52}
+        - {x: 53, y: -54}
+        - {x: 54, y: -54}
+        - {x: 54, y: -49}
+        - {x: 52, y: -49}
+      - - {x: -51, y: -51}
+        - {x: -51, y: -48}
+        - {x: -54, y: -47}
+        - {x: -54, y: -52}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
