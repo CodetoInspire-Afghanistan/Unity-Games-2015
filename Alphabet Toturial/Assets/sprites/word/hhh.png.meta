@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 9be9fee143bc74741a7c454d6b3dfc06
+timeCreated: 1476801083
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hhh_0
+    21300002: hhh_1
+    21300004: hhh_2
+    21300006: hhh_3
+    21300008: hhh_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hhh_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 42.5}
+        - {x: -15, y: 42.5}
+        - {x: -25, y: 40.5}
+        - {x: -29, y: 26.5}
+        - {x: -29, y: -35.5}
+        - {x: -18, y: -42.5}
+        - {x: 18, y: -42.5}
+        - {x: 27, y: -34.5}
+        - {x: 29, y: -23.5}
+        - {x: 29, y: 35.5}
+      - - {x: -6, y: -26.5}
+        - {x: -9, y: -22.5}
+        - {x: -11, y: 16.5}
+        - {x: 4, y: 26.5}
+    - name: hhh_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 40}
+        - {x: -17, y: 40}
+        - {x: -21, y: 38}
+        - {x: -26, y: 34}
+        - {x: -26, y: 12}
+        - {x: -25, y: -8}
+        - {x: -17, y: -40}
+        - {x: 0, y: -40}
+        - {x: 2, y: -30}
+        - {x: 26, y: -1}
+        - {x: 26, y: 31}
+    - name: hhh_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 48}
+        - {x: -28, y: 44}
+        - {x: -30, y: 39}
+        - {x: -30, y: -29}
+        - {x: -28, y: -38}
+        - {x: 7, y: -48}
+        - {x: 30, y: -48}
+        - {x: 30, y: 36}
+        - {x: 22, y: 48}
+    - name: hhh_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 15
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 41.5}
+        - {x: -30, y: -41.5}
+        - {x: 30, y: -41.5}
+        - {x: 30, y: 24.5}
+        - {x: 27, y: 33.5}
+        - {x: 18, y: 41.5}
+    - name: hhh_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 18
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 39.5}
+        - {x: -24, y: 14.5}
+        - {x: -12, y: 1.5}
+        - {x: -25, y: -14.5}
+        - {x: -26, y: -18.5}
+        - {x: -26, y: -33.5}
+        - {x: -20, y: -39.5}
+        - {x: 8, y: -39.5}
+        - {x: 26, y: -26.5}
+        - {x: 26, y: 34.5}
+        - {x: 21, y: 39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

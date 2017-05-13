@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\SceneManage.cs">
+    <Files>
+      <File FileName="Assets\Script\SceneManage.cs" Line="27" Column="40" />
+      <File FileName="Assets\Script\Panel.cs" Line="18" Column="5" />
+      <File FileName="Assets\Script\MusicPlayer.cs" Line="25" Column="25" />
+      <File FileName="Assets\Script\StopTouching.cs" Line="14" Column="1" />
+      <File FileName="Assets\Script\AnimationState.cs" Line="14" Column="1" />
+      <File FileName="Assets\Script\WordTouching.cs" Line="144" Column="59" />
+      <File FileName="Assets\Script\touching.cs" Line="66" Column="27" />
+      <File FileName="Assets\Script\HealthScript.cs" Line="20" Column="48" />
+      <File FileName="Assets\Script\score.cs" Line="12" Column="36" />
+      <File FileName="Assets\Script\MoveBalloon.cs" Line="14" Column="75" />
+      <File FileName="Assets\Script\Spawner.cs" Line="100" Column="3" />
+      <File FileName="Assets\Script\spawnwords.cs" Line="41" Column="20" />
+      <File FileName="Assets\Script\UIManegar.cs" Line="15" Column="17" />
+      <File FileName="Assets\Script\buttonScript.cs" Line="9" Column="17" />
+      <File FileName="Assets\Script\sound.cs" Line="16" Column="3" />
+      <File FileName="Assets\Script\link.cs" Line="6" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

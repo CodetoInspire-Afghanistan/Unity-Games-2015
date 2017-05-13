@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 94d0179f4c42ca14d8b42dc9c8a8f450
+timeCreated: 1476716278
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heat1111_0
+    21300002: heat1111_1
+    21300004: heat1111_2
+    21300006: heat1111_3
+    21300008: heat1111_4
+    21300010: heat1111_5
+    21300012: heat1111_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heat1111_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 38}
+        - {x: -43, y: 36}
+        - {x: -43, y: -11}
+        - {x: -29, y: -38}
+        - {x: 38, y: -38}
+        - {x: 43, y: -22}
+        - {x: 43, y: 38}
+    - name: heat1111_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 40
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 39.5}
+        - {x: -39, y: 37.5}
+        - {x: -39, y: -2.5}
+        - {x: -14, y: -39.5}
+        - {x: 19, y: -39.5}
+        - {x: 39, y: -7.5}
+        - {x: 39, y: 33.5}
+        - {x: 26, y: 39.5}
+    - name: heat1111_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 40.5}
+        - {x: -29.5, y: -40.5}
+        - {x: 5.5, y: -40.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 29.5, y: -11.5}
+        - {x: 29.5, y: 33.5}
+        - {x: 28.5, y: 40.5}
+    - name: heat1111_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 38
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 41}
+        - {x: -18, y: -30}
+        - {x: -11, y: -41}
+        - {x: 8, y: -41}
+        - {x: 18, y: -28}
+        - {x: 18, y: 41}
+    - name: heat1111_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 38
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 41}
+        - {x: -29.5, y: -12}
+        - {x: -19.5, y: -41}
+        - {x: 15.5, y: -41}
+        - {x: 29.5, y: -30}
+        - {x: 29.5, y: 41}
+    - name: heat1111_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 40
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 39.5}
+        - {x: -39.5, y: -23.5}
+        - {x: -25.5, y: -39.5}
+        - {x: 20.5, y: -39.5}
+        - {x: 39.5, y: -31.5}
+        - {x: 39.5, y: 39.5}
+    - name: heat1111_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 38
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 38.5}
+        - {x: -43, y: 36.5}
+        - {x: -43, y: -11.5}
+        - {x: -33, y: -38.5}
+        - {x: 29, y: -38.5}
+        - {x: 43, y: -13.5}
+        - {x: 43, y: 38.5}
+      - - {x: -34, y: -22.5}
+        - {x: -31, y: -21.5}
+        - {x: -31, y: -18.5}
+        - {x: -34, y: -17.5}
+        - {x: -36, y: -19.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

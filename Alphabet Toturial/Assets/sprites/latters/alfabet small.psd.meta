@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: c5ec539f51b140f44b40c2e956bdc758
+timeCreated: 1476766701
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alfabet small_0
+    21300002: alfabet small_1
+    21300004: alfabet small_2
+    21300006: alfabet small_3
+    21300008: alfabet small_4
+    21300010: alfabet small_5
+    21300012: alfabet small_6
+    21300014: alfabet small_7
+    21300016: alfabet small_10
+    21300018: alfabet small_11
+    21300020: alfabet small_12
+    21300022: alfabet small_13
+    21300024: alfabet small_14
+    21300026: alfabet small_15
+    21300028: alfabet small_16
+    21300030: alfabet small_17
+    21300032: alfabet small_18
+    21300034: alfabet small_19
+    21300036: alfabet small_20
+    21300038: alfabet small_21
+    21300040: alfabet small_22
+    21300042: alfabet small_23
+    21300044: alfabet small_24
+    21300046: alfabet small_25
+    21300048: alfabet small_26
+    21300050: alfabet small_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alfabet small_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1044
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 83.5}
+        - {x: -9, y: 83.5}
+        - {x: -29, y: 79.5}
+        - {x: -83, y: 54.5}
+        - {x: -84, y: 50.5}
+        - {x: -84, y: -76.5}
+        - {x: -75, y: -83.5}
+        - {x: 43, y: -83.5}
+        - {x: 76, y: -79.5}
+        - {x: 84, y: -70.5}
+        - {x: 84, y: 46.5}
+        - {x: 81, y: 69.5}
+      - - {x: -5, y: 83.5}
+        - {x: -6, y: 82.5}
+        - {x: -5, y: 79.5}
+        - {x: -2, y: 79.5}
+        - {x: 0, y: 81.5}
+        - {x: -1, y: 83.5}
+    - name: alfabet small_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1045
+        width: 152
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 46}
+        - {x: -13, y: 119}
+        - {x: -76, y: 119}
+        - {x: -76, y: -107}
+        - {x: -55, y: -119}
+        - {x: 54, y: -119}
+        - {x: 76, y: -86}
+        - {x: 76, y: 5}
+        - {x: 75, y: 14}
+      - - {x: -17, y: 94}
+        - {x: -15, y: 92}
+        - {x: -12, y: 93}
+        - {x: -12, y: 96}
+        - {x: -14, y: 98}
+        - {x: -17, y: 97}
+    - name: alfabet small_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1044
+        width: 135
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 19}
+        - {x: 67.5, y: 81}
+        - {x: 63.5, y: 84}
+        - {x: -67.5, y: 84}
+        - {x: -67.5, y: -59}
+        - {x: -32.5, y: -83}
+        - {x: -24.5, y: -84}
+        - {x: 57.5, y: -84}
+        - {x: 67.5, y: -73}
+        - {x: 67.5, y: -25}
+        - {x: 54.5, y: -22}
+    - name: alfabet small_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1042
+        width: 141
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 120}
+        - {x: -70.5, y: 16}
+        - {x: -70.5, y: -83}
+        - {x: -45.5, y: -120}
+        - {x: 58.5, y: -120}
+        - {x: 70.5, y: -113}
+        - {x: 70.5, y: 70}
+        - {x: 60.5, y: 120}
+      - - {x: -11.5, y: 18}
+        - {x: -10.5, y: 15}
+        - {x: -7.5, y: 15}
+        - {x: -5.5, y: 17}
+        - {x: -6.5, y: 20}
+        - {x: -9.5, y: 20}
+    - name: alfabet small_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1038
+        width: 141
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 86}
+        - {x: 63.5, y: 87}
+        - {x: -50.5, y: 87}
+        - {x: -70.5, y: 68}
+        - {x: -70.5, y: -67}
+        - {x: -52.5, y: -87}
+        - {x: 56.5, y: -87}
+        - {x: 61.5, y: -76}
+        - {x: 61.5, y: -33}
+        - {x: 70.5, y: 1}
+      - - {x: 63.5, y: -3}
+        - {x: 66.5, y: -2}
+        - {x: 66.5, y: 1}
+        - {x: 63.5, y: 2}
+        - {x: 61.5, y: 0}
+      - - {x: 9.5, y: 30}
+        - {x: 12.5, y: 31}
+        - {x: 12.5, y: 34}
+        - {x: 9.5, y: 35}
+        - {x: 7.5, y: 33}
+    - name: alfabet small_5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1045
+        width: 150
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 119.5}
+        - {x: -75, y: 41.5}
+        - {x: -75, y: -79.5}
+        - {x: -56, y: -119.5}
+        - {x: 19, y: -119.5}
+        - {x: 27, y: -116.5}
+        - {x: 75, y: -30.5}
+        - {x: 75, y: 119.5}
+    - name: alfabet small_6
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 997
+        width: 140
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 102.5}
+        - {x: -70, y: 97.5}
+        - {x: -70, y: -75.5}
+        - {x: -61, y: -97.5}
+        - {x: -36, y: -101.5}
+        - {x: 13, y: -101.5}
+        - {x: 60, y: -92.5}
+        - {x: 60, y: 90.5}
+        - {x: 34, y: 102.5}
+      - - {x: -2, y: -97.5}
+        - {x: -1, y: -100.5}
+        - {x: 2, y: -100.5}
+        - {x: 4, y: -98.5}
+        - {x: 3, y: -95.5}
+        - {x: 0, y: -95.5}
+    - name: alfabet small_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 712
+        width: 134
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 120.5}
+        - {x: -67, y: -120.5}
+        - {x: 65, y: -120.5}
+        - {x: 67, y: -118.5}
+        - {x: 67, y: -20.5}
+        - {x: -21, y: 120.5}
+      - - {x: 64, y: -92.5}
+        - {x: 66, y: -94.5}
+        - {x: 67, y: -94.5}
+        - {x: 67, y: -88.5}
+        - {x: 64, y: -89.5}
+    - name: alfabet small_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 707
+        width: 130
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 112.5}
+        - {x: -65, y: -108.5}
+        - {x: -60, y: -112.5}
+        - {x: 65, y: -112.5}
+        - {x: 65, y: 57.5}
+        - {x: -28, y: 112.5}
+      - - {x: -24, y: -112.5}
+        - {x: -20, y: -112.5}
+        - {x: -20, y: -109.5}
+        - {x: -23, y: -108.5}
+        - {x: -25, y: -110.5}
+      - - {x: 40, y: -100.5}
+        - {x: 41, y: -103.5}
+        - {x: 45, y: -103.5}
+        - {x: 47, y: -101.5}
+        - {x: 46, y: -98.5}
+        - {x: 42, y: -98.5}
+      - - {x: 32, y: 64.5}
+        - {x: 33, y: 61.5}
+        - {x: 36, y: 61.5}
+        - {x: 38, y: 63.5}
+        - {x: 37, y: 66.5}
+        - {x: 34, y: 66.5}
+      - - {x: -15, y: 93.5}
+        - {x: -12, y: 94.5}
+        - {x: -12, y: 97.5}
+        - {x: -15, y: 98.5}
+        - {x: -17, y: 96.5}
+    - name: alfabet small_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 712
+        width: 51
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 118.5}
+        - {x: -22.5, y: 118.5}
+        - {x: -25.5, y: 117.5}
+        - {x: -25.5, y: -114.5}
+        - {x: -18.5, y: -118.5}
+        - {x: 18.5, y: -118.5}
+        - {x: 19.5, y: -116.5}
+        - {x: 25.5, y: -102.5}
+        - {x: 25.5, y: 85.5}
+      - - {x: 11.5, y: 109.5}
+        - {x: 12.5, y: 106.5}
+        - {x: 15.5, y: 106.5}
+        - {x: 17.5, y: 108.5}
+        - {x: 16.5, y: 111.5}
+        - {x: 13.5, y: 111.5}
+    - name: alfabet small_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 710
+        width: 55
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 44.5}
+        - {x: -27.5, y: 31.5}
+        - {x: -27.5, y: -110.5}
+        - {x: -14.5, y: -115.5}
+        - {x: 27.5, y: -115.5}
+        - {x: 27.5, y: 32.5}
+        - {x: 16.5, y: 44.5}
+      - - {x: 19.5, y: -111.5}
+        - {x: 22.5, y: -110.5}
+        - {x: 22.5, y: -107.5}
+        - {x: 19.5, y: -106.5}
+        - {x: 17.5, y: -108.5}
+      - - {x: -5.5, y: 60.5}
+        - {x: -4.5, y: 57.5}
+        - {x: 4.5, y: 57.5}
+        - {x: 6.5, y: 59.5}
+        - {x: 5.5, y: 62.5}
+        - {x: -3.5, y: 62.5}
+      - - {x: 4.5, y: 115.5}
+        - {x: -17.5, y: 115.5}
+        - {x: -27.5, y: 109.5}
+        - {x: -27.5, y: 70.5}
+        - {x: -12.5, y: 62.5}
+        - {x: 17.5, y: 62.5}
+        - {x: 22.5, y: 75.5}
+        - {x: 22.5, y: 96.5}
+        - {x: 19.5, y: 111.5}
+    - name: alfabet small_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 677
+        width: 95
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 61}
+        - {x: -47.5, y: -25}
+        - {x: -47.5, y: -131}
+        - {x: 31.5, y: -131}
+        - {x: 47.5, y: -121}
+        - {x: 47.5, y: 61}
+      - - {x: 6.5, y: -131}
+        - {x: 10.5, y: -131}
+        - {x: 10.5, y: -128}
+        - {x: 7.5, y: -127}
+        - {x: 5.5, y: -129}
+      - - {x: -23.5, y: -79}
+        - {x: -20.5, y: -78}
+        - {x: -20.5, y: -75}
+        - {x: -23.5, y: -74}
+        - {x: -25.5, y: -76}
+      - - {x: 31.5, y: 57}
+        - {x: 34.5, y: 58}
+        - {x: 34.5, y: 61}
+        - {x: 31.5, y: 62}
+        - {x: 29.5, y: 60}
+      - - {x: -1.5, y: 77}
+        - {x: -0.5, y: 74}
+        - {x: 2.5, y: 74}
+        - {x: 4.5, y: 76}
+        - {x: 3.5, y: 79}
+        - {x: 0.5, y: 79}
+      - - {x: -17.5, y: 128}
+        - {x: -17.5, y: 90}
+        - {x: -13.5, y: 78}
+        - {x: 32.5, y: 78}
+        - {x: 32.5, y: 119}
+        - {x: 19.5, y: 128}
+    - name: alfabet small_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 708
+        width: 232
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -84}
+        - {x: 87, y: -82}
+        - {x: 84, y: -81}
+        - {x: 82, y: -84}
+      - - {x: -116, y: 84}
+        - {x: -116, y: -40}
+        - {x: -103, y: -82}
+        - {x: 114, y: -82}
+        - {x: 116, y: -76}
+        - {x: 116, y: 84}
+      - - {x: 11, y: -30}
+        - {x: 14, y: -29}
+        - {x: 14, y: -26}
+        - {x: 11, y: -25}
+        - {x: 9, y: -27}
+      - - {x: 27, y: -29}
+        - {x: 30, y: -28}
+        - {x: 30, y: -25}
+        - {x: 27, y: -24}
+        - {x: 25, y: -26}
+      - - {x: 14, y: 65}
+        - {x: 17, y: 66}
+        - {x: 17, y: 69}
+        - {x: 14, y: 70}
+        - {x: 12, y: 68}
+    - name: alfabet small_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 396
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -67}
+        - {x: 84, y: 37}
+        - {x: 64, y: 88}
+        - {x: -84, y: 88}
+        - {x: -84, y: -67}
+        - {x: -74, y: -88}
+        - {x: -28, y: -88}
+        - {x: 1, y: -72}
+        - {x: 40, y: -88}
+        - {x: 81, y: -88}
+      - - {x: 32, y: 76}
+        - {x: 35, y: 77}
+        - {x: 35, y: 80}
+        - {x: 32, y: 81}
+        - {x: 30, y: 79}
+    - name: alfabet small_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 76
+        width: 174
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 73}
+        - {x: 24, y: 78}
+        - {x: 13, y: 57}
+        - {x: -24, y: 84}
+        - {x: -59, y: 84}
+        - {x: -87, y: 73}
+        - {x: -87, y: -45}
+        - {x: -65, y: -84}
+        - {x: 79, y: -84}
+        - {x: 87, y: -70}
+        - {x: 87, y: -3}
+        - {x: 67, y: 54}
+      - - {x: -59, y: 84}
+        - {x: -58, y: 81}
+        - {x: -55, y: 81}
+        - {x: -53, y: 83}
+        - {x: -53, y: 84}
+    - name: alfabet small_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 388
+        width: 151
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 85.5}
+        - {x: -59.5, y: 79.5}
+        - {x: -75.5, y: 52.5}
+        - {x: -75.5, y: -45.5}
+        - {x: -68.5, y: -85.5}
+        - {x: 59.5, y: -85.5}
+        - {x: 75.5, y: -37.5}
+        - {x: 75.5, y: 77.5}
+        - {x: 54.5, y: 85.5}
+      - - {x: 23.5, y: -85.5}
+        - {x: 23.5, y: -83.5}
+        - {x: 20.5, y: -82.5}
+        - {x: 18.5, y: -85.5}
+      - - {x: -16.5, y: 2.5}
+        - {x: -14.5, y: 0.5}
+        - {x: -11.5, y: 1.5}
+        - {x: -11.5, y: 5.5}
+        - {x: -13.5, y: 7.5}
+        - {x: -16.5, y: 6.5}
+    - name: alfabet small_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 82
+        width: 125
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 81}
+        - {x: -62.5, y: 6}
+        - {x: -22.5, y: -81}
+        - {x: 36.5, y: -81}
+        - {x: 44.5, y: -78}
+        - {x: 62.5, y: 12}
+        - {x: 62.5, y: 81}
+    - name: alfabet small_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 353
+        width: 152
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 101.5}
+        - {x: -76, y: -101.5}
+        - {x: -15, y: -101.5}
+        - {x: 76, y: 23.5}
+        - {x: 76, y: 99.5}
+        - {x: 69, y: 101.5}
+    - name: alfabet small_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 84
+        width: 185
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.5, y: 80}
+        - {x: -92.5, y: 80}
+        - {x: -92.5, y: -36}
+        - {x: -73.5, y: -80}
+        - {x: 74.5, y: -80}
+        - {x: 92.5, y: -60}
+        - {x: 92.5, y: 74}
+    - name: alfabet small_21
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 343
+        width: 160
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 105}
+        - {x: -80, y: 99}
+        - {x: -80, y: -19}
+        - {x: -36, y: -105}
+        - {x: 56, y: -105}
+        - {x: 80, y: -89}
+        - {x: 80, y: 54}
+        - {x: 73, y: 105}
+      - - {x: -38, y: 7}
+        - {x: -37, y: 4}
+        - {x: -34, y: 4}
+        - {x: -32, y: 6}
+        - {x: -33, y: 9}
+        - {x: -36, y: 9}
+    - name: alfabet small_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 84
+        width: 152
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 84}
+        - {x: -75, y: -84}
+        - {x: 70, y: -84}
+        - {x: 76, y: -83}
+        - {x: 76, y: 80}
+        - {x: 59, y: 84}
+      - - {x: -73, y: -62}
+        - {x: -73, y: -59}
+        - {x: -76, y: -58}
+        - {x: -76, y: -63}
+    - name: alfabet small_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 391
+        width: 121
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 85}
+        - {x: -60.5, y: 85}
+        - {x: -60.5, y: -53}
+        - {x: -32.5, y: -85}
+        - {x: -6.5, y: -85}
+        - {x: 4.5, y: -81}
+        - {x: 60.5, y: 14}
+        - {x: 60.5, y: 80}
+    - name: alfabet small_24
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 17
+        width: 125
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 109.5}
+        - {x: -62.5, y: 105.5}
+        - {x: -62.5, y: -109.5}
+        - {x: 59.5, y: -109.5}
+        - {x: 62.5, y: -60.5}
+        - {x: 62.5, y: 104.5}
+        - {x: 61.5, y: 109.5}
+    - name: alfabet small_25
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 390
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: -13}
+        - {x: 30.5, y: 9}
+        - {x: 39.5, y: 41}
+        - {x: 40.5, y: 45}
+        - {x: 42.5, y: 62}
+        - {x: 41.5, y: 73}
+        - {x: 32.5, y: 83}
+        - {x: 23.5, y: 86}
+        - {x: -47.5, y: 86}
+        - {x: -53.5, y: 71}
+        - {x: -53.5, y: -82}
+        - {x: -39.5, y: -86}
+        - {x: 29.5, y: -86}
+        - {x: 40.5, y: -81}
+        - {x: 48.5, y: -68}
+        - {x: 53.5, y: -60}
+    - name: alfabet small_26
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 75
+        width: 144
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 78}
+        - {x: -72, y: -78}
+        - {x: 61, y: -78}
+        - {x: 72, y: -70}
+        - {x: 72, y: 78}
+    - name: alfabet small_27
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 391
+        width: 146
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 91}
+        - {x: -28, y: 91}
+        - {x: -73, y: 49}
+        - {x: -73, y: 8}
+        - {x: -36, y: -79}
+        - {x: -5, y: -88}
+        - {x: 62, y: -88}
+        - {x: 65, y: -81}
+        - {x: 65, y: -10}
+        - {x: 48, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

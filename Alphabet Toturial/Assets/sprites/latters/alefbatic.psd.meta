@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 83556d10d5a64f447963c3a83e32e75f
+timeCreated: 1475950671
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alefbatic_2
+    21300002: alefbatic_5
+    21300004: alefbatic_6
+    21300006: alefbatic_7
+    21300008: alefbatic_8
+    21300010: alefbatic_9
+    21300012: alefbatic_12
+    21300014: alefbatic_14
+    21300016: alefbatic_16
+    21300018: alefbatic_17
+    21300020: alefbatic_18
+    21300022: alefbatic_19
+    21300024: alefbatic_22
+    21300026: alefbatic_23
+    21300028: alefbatic_24
+    21300030: alefbatic_26
+    21300032: alefbatic_29
+    21300034: alefbatic_31
+    21300036: alefbatic_34
+    21300038: alefbatic_36
+    21300040: alefbatic_38
+    21300042: alefbatic_39
+    21300044: alefbatic_40
+    21300046: alefbatic_41
+    21300048: alefbatic_45
+    21300050: alefbatic_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alefbatic_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 229
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17}
+        - {x: -17.5, y: 12}
+        - {x: -17.5, y: -11}
+        - {x: -13.5, y: -17}
+        - {x: 17.5, y: -17}
+        - {x: 17.5, y: 13}
+        - {x: 13.5, y: 17}
+    - name: alefbatic_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 230
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -19, y: 7.5}
+        - {x: -19, y: -12.5}
+        - {x: -17, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 16.5}
+    - name: alefbatic_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 228
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -14.5}
+        - {x: 19, y: -11.5}
+        - {x: 19, y: 17.5}
+        - {x: -16, y: 17.5}
+        - {x: -17, y: 16.5}
+        - {x: -19, y: 12.5}
+        - {x: -19, y: -12.5}
+        - {x: -13, y: -17.5}
+        - {x: 13, y: -17.5}
+        - {x: 14, y: -16.5}
+        - {x: 13, y: -13.5}
+        - {x: 14, y: -14.5}
+    - name: alefbatic_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 228
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -17, y: 11.5}
+        - {x: -17, y: -7.5}
+        - {x: -10, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 22, y: -11.5}
+        - {x: 22, y: 17.5}
+      - - {x: -19, y: -2.5}
+        - {x: -19, y: 0.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -3.5}
+    - name: alefbatic_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 230
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 12}
+        - {x: 10.5, y: 17}
+        - {x: -13.5, y: 17}
+        - {x: -18.5, y: 12}
+        - {x: -18.5, y: -13}
+        - {x: -17.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 18.5, y: -12}
+    - name: alefbatic_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18}
+        - {x: -18.5, y: 15}
+        - {x: -18.5, y: -14}
+        - {x: -15.5, y: -18}
+        - {x: 17.5, y: -18}
+        - {x: 18.5, y: -17}
+        - {x: 18.5, y: 18}
+    - name: alefbatic_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 178
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -17, y: 12}
+        - {x: -17, y: -13}
+        - {x: -13, y: -18}
+        - {x: 10, y: -18}
+        - {x: 17, y: -16}
+        - {x: 17, y: 18}
+    - name: alefbatic_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 179
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -11.5}
+        - {x: 8, y: -12.5}
+        - {x: 15, y: -16.5}
+        - {x: 19, y: -17.5}
+        - {x: 19, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -10.5}
+        - {x: -14, y: -17.5}
+        - {x: 6, y: -17.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: -13.5}
+        - {x: 5, y: -11.5}
+    - name: alefbatic_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 177
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -19, y: 16.5}
+        - {x: -19, y: -12.5}
+        - {x: -14, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 19, y: -10.5}
+        - {x: 19, y: 15.5}
+        - {x: 16, y: 18.5}
+    - name: alefbatic_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 176
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -18, y: 18}
+        - {x: -18, y: -12}
+        - {x: -11, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 13}
+        - {x: 15, y: 19}
+    - name: alefbatic_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 179
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -16.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 14.5, y: 17.5}
+    - name: alefbatic_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 177
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18.5}
+        - {x: -15, y: 18.5}
+        - {x: -19, y: 12.5}
+        - {x: -19, y: -16.5}
+        - {x: -12, y: -18.5}
+        - {x: 18, y: -18.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 9.5}
+        - {x: 18, y: 12.5}
+    - name: alefbatic_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 126
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18}
+        - {x: -17.5, y: -16}
+        - {x: -14.5, y: -18}
+        - {x: 17.5, y: -18}
+        - {x: 17.5, y: 18}
+    - name: alefbatic_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 126
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -18, y: 12}
+        - {x: -18, y: -17}
+        - {x: -14, y: -18}
+        - {x: 15, y: -18}
+        - {x: 18, y: -13}
+        - {x: 18, y: 11}
+        - {x: 10, y: 18}
+    - name: alefbatic_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 17.5}
+    - name: alefbatic_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 125
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18.5}
+        - {x: -17, y: 12.5}
+        - {x: -17, y: -16.5}
+        - {x: -14, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 17, y: -15.5}
+        - {x: 17, y: 13.5}
+        - {x: 11, y: 18.5}
+    - name: alefbatic_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 125
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 18}
+        - {x: -17.5, y: 16}
+        - {x: -17.5, y: -16}
+        - {x: -15.5, y: -18}
+        - {x: 17.5, y: -18}
+        - {x: 17.5, y: 14}
+        - {x: 12.5, y: 18}
+    - name: alefbatic_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 125
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 18}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 18}
+    - name: alefbatic_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 77
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 16.5}
+        - {x: -17.5, y: -15.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 15.5, y: 17.5}
+    - name: alefbatic_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 77
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17.5}
+        - {x: -17, y: -13.5}
+        - {x: -15, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 17.5}
+    - name: alefbatic_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 77
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17.5}
+        - {x: -18.5, y: 12.5}
+        - {x: -18.5, y: -12.5}
+        - {x: -13.5, y: -17.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 8.5, y: 17.5}
+    - name: alefbatic_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -17, y: 14}
+        - {x: -17, y: -15}
+        - {x: -13, y: -18}
+        - {x: 10, y: -18}
+        - {x: 17, y: -12}
+        - {x: 17, y: 15}
+        - {x: 12, y: 18}
+    - name: alefbatic_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18.5}
+        - {x: -17.5, y: 10.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 17.5, y: 11.5}
+        - {x: 14.5, y: 18.5}
+    - name: alefbatic_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 77
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: -11.5}
+        - {x: -15, y: -17.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 16.5}
+        - {x: 15, y: 17.5}
+    - name: alefbatic_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 18}
+        - {x: -13.5, y: 18}
+        - {x: -17.5, y: 13}
+        - {x: -17.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 16.5, y: -17}
+        - {x: 17.5, y: -12}
+        - {x: 17.5, y: 17}
+    - name: alefbatic_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 30
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17}
+        - {x: -17.5, y: -17}
+        - {x: 16.5, y: -17}
+        - {x: 17.5, y: -14}
+        - {x: 17.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

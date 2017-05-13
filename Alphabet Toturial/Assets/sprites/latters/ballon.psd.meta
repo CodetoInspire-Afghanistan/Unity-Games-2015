@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 49a2a369b7a32bc409d0401908d6986e
+timeCreated: 1475133055
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ballon_0
+    21300002: ballon_1
+    21300004: ballon_3
+    21300006: ballon_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ballon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 104
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -157}
+        - {x: -2, y: -159}
+        - {x: 4, y: -159}
+        - {x: 4, y: -157}
+        - {x: 2, y: -155}
+        - {x: 0, y: -155}
+      - - {x: -52, y: 159}
+        - {x: -52, y: -104}
+        - {x: -26, y: -155}
+        - {x: 6, y: -155}
+        - {x: 13, y: -146}
+        - {x: 52, y: 22}
+        - {x: 52, y: 132}
+        - {x: 27, y: 159}
+      - - {x: 8, y: -11}
+        - {x: 8, y: -17}
+        - {x: 12, y: -17}
+        - {x: 14, y: -16}
+        - {x: 14, y: -11}
+    - name: ballon_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 106
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -69}
+        - {x: 7, y: -69}
+        - {x: 11, y: -69}
+        - {x: 14, y: -68}
+        - {x: 24, y: -52}
+        - {x: 53, y: -18}
+        - {x: 53, y: 119}
+        - {x: 29, y: 148}
+        - {x: -41, y: 148}
+        - {x: -53, y: 136}
+        - {x: -53, y: -64}
+        - {x: -44, y: -97}
+        - {x: -1, y: -148}
+        - {x: 31, y: -148}
+        - {x: 44, y: -137}
+        - {x: 38, y: -112}
+        - {x: 27, y: -85}
+      - - {x: 41, y: -101}
+        - {x: 39, y: -103}
+        - {x: 39, y: -105}
+        - {x: 41, y: -107}
+        - {x: 43, y: -107}
+        - {x: 45, y: -105}
+        - {x: 45, y: -103}
+        - {x: 43, y: -101}
+      - - {x: 3, y: -35}
+        - {x: 1, y: -37}
+        - {x: 1, y: -39}
+        - {x: 3, y: -41}
+        - {x: 5, y: -41}
+        - {x: 7, y: -39}
+        - {x: 7, y: -37}
+        - {x: 5, y: -35}
+      - - {x: 19, y: -25}
+        - {x: 17, y: -27}
+        - {x: 17, y: -29}
+        - {x: 19, y: -31}
+        - {x: 21, y: -31}
+        - {x: 23, y: -29}
+        - {x: 23, y: -27}
+        - {x: 21, y: -25}
+    - name: ballon_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 45
+        width: 105
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -44}
+        - {x: -2.5, y: -44}
+        - {x: -0.5, y: -44}
+        - {x: 6.5, y: -43}
+        - {x: 8.5, y: -41}
+        - {x: 6.5, y: -34}
+        - {x: 8.5, y: -21}
+        - {x: 9.5, y: -41}
+        - {x: 11.5, y: -43}
+        - {x: 25.5, y: -45}
+        - {x: 43.5, y: -16}
+        - {x: 52.5, y: 34}
+        - {x: 52.5, y: 106}
+        - {x: 42.5, y: 125}
+        - {x: 34.5, y: 134}
+        - {x: 26.5, y: 140}
+        - {x: 20.5, y: 144}
+        - {x: -17.5, y: 144}
+        - {x: -40.5, y: 134}
+        - {x: -52.5, y: 93}
+        - {x: -52.5, y: -21}
+        - {x: -37.5, y: -144}
+        - {x: -6.5, y: -144}
+        - {x: -3.5, y: -138}
+        - {x: -10.5, y: -125}
+        - {x: 8.5, y: -57}
+      - - {x: -7.5, y: -144}
+        - {x: -3.5, y: -144}
+        - {x: -3.5, y: -141}
+        - {x: -6.5, y: -140}
+        - {x: -8.5, y: -142}
+      - - {x: -52.5, y: -1}
+        - {x: -52.5, y: -43}
+        - {x: -30.5, y: -43}
+        - {x: -26.5, y: -39}
+        - {x: -26.5, y: -7}
+        - {x: -29.5, y: -1}
+      - - {x: 46.5, y: -1}
+        - {x: 47.5, y: -4}
+        - {x: 50.5, y: -4}
+        - {x: 52.5, y: -2}
+        - {x: 51.5, y: 1}
+        - {x: 48.5, y: 1}
+      - - {x: -49.5, y: 94}
+        - {x: -49.5, y: 97}
+        - {x: -52.5, y: 98}
+        - {x: -52.5, y: 93}
+    - name: ballon_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 47
+        width: 103
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 135}
+        - {x: -51.5, y: 122}
+        - {x: -51.5, y: -53}
+        - {x: -24.5, y: -135}
+        - {x: 32.5, y: -135}
+        - {x: 51.5, y: -101}
+        - {x: 51.5, y: 133}
+        - {x: 48.5, y: 135}
+      - - {x: 44.5, y: 13}
+        - {x: 47.5, y: 14}
+        - {x: 47.5, y: 17}
+        - {x: 44.5, y: 18}
+        - {x: 42.5, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

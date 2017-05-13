@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 42ff71c822a8f314aabc283c3b36a1a8
+timeCreated: 1477737891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_0"
+    21300002: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_1"
+    21300004: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_2"
+    21300006: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_3"
+    21300008: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_5"
+    21300010: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_6"
+    21300012: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_7"
+    21300014: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_8"
+    21300016: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_9"
+    21300018: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_10"
+    21300020: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_11"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_0"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 538
+        width: 493
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_1"
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 911
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_3"
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 572
+        width: 280
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_6"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 335
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_7"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 408
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_8"
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 338
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_9"
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 313
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_10"
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 191
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0635\u0648\u0631\u062A\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC\u06CC_11"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 190
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,231 @@
+E:\my file\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+E:\my file\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\my file\Rird\Temp\bin\Debug\UnityEditor.dll
+E:\my file\Rird\Temp\bin\Debug\UnityEngine.dll
+E:\my file\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\my file\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+E:\my file\Rird\Temp\bin\Debug\Mono.Cecil.dll
+E:\my file\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\my file\Rird\Temp\bin\Debug\Unity.DataContract.dll
+E:\my file\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\my file\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\my file\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+E:\my file\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\my file\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\my file\Rird\Temp\bin\Debug\UnityEngine.xml
+E:\my file\Rird\Temp\bin\Debug\UnityEditor.xml
+E:\my file\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+E:\my file\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\my file\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\my file\Rird\obj\Debug\Assembly-CSharp.dll
+E:\my file\Rird\obj\Debug\Assembly-CSharp.pdb
+F:\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Rird\Temp\bin\Debug\UnityEditor.dll
+F:\Rird\Temp\bin\Debug\UnityEngine.dll
+F:\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Rird\Temp\bin\Debug\Mono.Cecil.dll
+F:\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Rird\Temp\bin\Debug\Unity.DataContract.dll
+F:\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Rird\Temp\bin\Debug\UnityEngine.xml
+F:\Rird\Temp\bin\Debug\UnityEditor.xml
+F:\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Rird\obj\Debug\Assembly-CSharp.dll
+F:\Rird\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\obj\Debug\Assembly-CSharp.dll
+C:\Users\Elham Mahmoodi\Desktop\FFFF\Rird\obj\Debug\Assembly-CSharp.pdb
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\obj\Debug\Assembly-CSharp.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEditor.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEngine.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEngine.xml
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEditor.xml
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\NargesHassani\Desktop\New folder\asl\Rird\obj\Debug\Assembly-CSharp.pdb
+G:\asl\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\asl\Rird\obj\Debug\Assembly-CSharp.dll
+G:\asl\Rird\obj\Debug\Assembly-CSharp.pdb
+G:\asl\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+G:\asl\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\asl\Rird\Temp\bin\Debug\UnityEditor.dll
+G:\asl\Rird\Temp\bin\Debug\UnityEngine.dll
+G:\asl\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\asl\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+G:\asl\Rird\Temp\bin\Debug\Mono.Cecil.dll
+G:\asl\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\asl\Rird\Temp\bin\Debug\Unity.DataContract.dll
+G:\asl\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\asl\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\asl\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+G:\asl\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\asl\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\asl\Rird\Temp\bin\Debug\UnityEngine.xml
+G:\asl\Rird\Temp\bin\Debug\UnityEditor.xml
+G:\asl\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+G:\asl\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEditor.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Mono.Cecil.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.DataContract.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.xml
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEditor.xml
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\obj\Debug\Assembly-CSharp.dll
+E:\CTI\روشنبه قبل امتحان ساینتیفیک\Rird\obj\Debug\Assembly-CSharp.pdb
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEditor.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Mono.Cecil.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.DataContract.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.xml
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEditor.xml
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\obj\Debug\Assembly-CSharp.dll
+G:\روشنبه قبل امتحان ساینتیفیک\Rird\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\obj\Debug\Assembly-CSharp.dll
+C:\Users\Elham Mahmoodi\Desktop\new version\Rird\obj\Debug\Assembly-CSharp.pdb
+E:\new version2\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+E:\new version2\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\new version2\Rird\Temp\bin\Debug\UnityEditor.dll
+E:\new version2\Rird\Temp\bin\Debug\UnityEngine.dll
+E:\new version2\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\new version2\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+E:\new version2\Rird\Temp\bin\Debug\Mono.Cecil.dll
+E:\new version2\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\new version2\Rird\Temp\bin\Debug\Unity.DataContract.dll
+E:\new version2\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\new version2\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\new version2\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+E:\new version2\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\new version2\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\new version2\Rird\Temp\bin\Debug\UnityEngine.xml
+E:\new version2\Rird\Temp\bin\Debug\UnityEditor.xml
+E:\new version2\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+E:\new version2\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\new version2\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\new version2\Rird\obj\Debug\Assembly-CSharp.dll
+E:\new version2\Rird\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\obj\Debug\Assembly-CSharp.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Elham Mahmoodi\Desktop\new version3\Rird\obj\Debug\Assembly-CSharp.pdb
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Assembly-CSharp.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEditor.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEngine.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEngine.UI.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Mono.Cecil.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Unity.DataContract.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Unity.CecilTools.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEngine.xml
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEditor.xml
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEngine.UI.xml
+E:\CTI\unityprogram\final Alph kids\Rird\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\CTI\unityprogram\final Alph kids\Rird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\CTI\unityprogram\final Alph kids\Rird\obj\Debug\Assembly-CSharp.dll
+E:\CTI\unityprogram\final Alph kids\Rird\obj\Debug\Assembly-CSharp.pdb

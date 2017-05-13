@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 6a0eb00830c56e34db0d5b3b4e0d6311
+timeCreated: 1476524154
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kids in start scene_0
+    21300002: kids in start scene_1
+    21300004: kids in start scene_3
+    21300006: kids in start scene_5
+    21300008: kids in start scene_6
+    21300010: kids in start scene_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kids in start scene_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 206
+        width: 169
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 101.5}
+        - {x: -76.5, y: 66.5}
+        - {x: -84.5, y: 43.5}
+        - {x: -84.5, y: -52.5}
+        - {x: -57.5, y: -101.5}
+        - {x: 52.5, y: -101.5}
+        - {x: 84.5, y: -66.5}
+        - {x: 84.5, y: 51.5}
+        - {x: 30.5, y: 101.5}
+      - - {x: 68.5, y: -2.5}
+        - {x: 68.5, y: -16.5}
+        - {x: 82.5, y: -43.5}
+        - {x: 84.5, y: -43.5}
+        - {x: 84.5, y: 1.5}
+        - {x: 72.5, y: 1.5}
+        - {x: 69.5, y: 0.5}
+      - - {x: 74.5, y: 81.5}
+        - {x: 62.5, y: 64.5}
+        - {x: 62.5, y: 54.5}
+        - {x: 67.5, y: 52.5}
+        - {x: 69.5, y: 56.5}
+        - {x: 70.5, y: 47.5}
+        - {x: 71.5, y: 43.5}
+        - {x: 84.5, y: 43.5}
+        - {x: 84.5, y: 81.5}
+    - name: kids in start scene_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 145
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -99}
+        - {x: -26.5, y: -101}
+        - {x: -26.5, y: -106}
+        - {x: -20.5, y: -110}
+        - {x: 15.5, y: -110}
+        - {x: 17.5, y: -105}
+        - {x: 17.5, y: -99}
+      - - {x: -72.5, y: 110}
+        - {x: -72.5, y: 57}
+        - {x: -66.5, y: 44}
+        - {x: -55.5, y: 46}
+        - {x: -72.5, y: 29}
+        - {x: -72.5, y: -30}
+        - {x: -47.5, y: -100}
+        - {x: 13.5, y: -100}
+        - {x: 37.5, y: -87}
+        - {x: 72.5, y: -22}
+        - {x: 72.5, y: 110}
+      - - {x: -72.5, y: -27}
+        - {x: -72.5, y: -35}
+        - {x: -70.5, y: -35}
+        - {x: -68.5, y: -33}
+        - {x: -68.5, y: -30}
+        - {x: -71.5, y: -27}
+      - - {x: -72.5, y: -13}
+        - {x: -72.5, y: -26}
+        - {x: -71.5, y: -27}
+        - {x: -69.5, y: -28}
+        - {x: -64.5, y: -28}
+        - {x: -63.5, y: -26}
+        - {x: -63.5, y: -21}
+        - {x: -70.5, y: -13}
+      - - {x: -69.5, y: 39}
+        - {x: -72.5, y: 36}
+        - {x: -72.5, y: 12}
+        - {x: -70.5, y: 12}
+        - {x: -50.5, y: 33}
+        - {x: -50.5, y: 39}
+    - name: kids in start scene_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 216
+        width: 113
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 95}
+        - {x: -13.5, y: 95}
+        - {x: -56.5, y: 75}
+        - {x: -56.5, y: -77}
+        - {x: -54.5, y: -95}
+        - {x: 49.5, y: -95}
+        - {x: 56.5, y: -83}
+        - {x: 56.5, y: 8}
+        - {x: 55.5, y: 60}
+    - name: kids in start scene_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 104
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 98}
+        - {x: -52, y: 91}
+        - {x: -52, y: -48}
+        - {x: -37, y: -98}
+        - {x: 52, y: -98}
+        - {x: 52, y: 94}
+        - {x: 48, y: 98}
+    - name: kids in start scene_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 131
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 95}
+        - {x: -65.5, y: 95}
+        - {x: -65.5, y: -11}
+        - {x: -50.5, y: -42}
+        - {x: -0.5, y: -95}
+        - {x: 15.5, y: -95}
+        - {x: 18.5, y: -92}
+        - {x: 49.5, y: -33}
+        - {x: 65.5, y: 40}
+      - - {x: 61.5, y: -1}
+        - {x: 60.5, y: -3}
+        - {x: 60.5, y: -17}
+        - {x: 62.5, y: -20}
+        - {x: 65.5, y: -20}
+        - {x: 65.5, y: -1}
+    - name: kids in start scene_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 164
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 92}
+        - {x: -10, y: 90}
+        - {x: -10, y: 87}
+        - {x: -9, y: 85}
+        - {x: -16, y: 92}
+        - {x: -75, y: 92}
+        - {x: -82, y: 89}
+        - {x: -82, y: -92}
+        - {x: 46, y: -92}
+        - {x: 48, y: -91}
+        - {x: 82, y: 37}
+        - {x: 82, y: 59}
+        - {x: 32, y: 92}
+      - - {x: -82, y: 74}
+        - {x: -82, y: 63}
+        - {x: -81, y: 62}
+        - {x: -80, y: 62}
+        - {x: -77, y: 65}
+        - {x: -78, y: 71}
+        - {x: -81, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
