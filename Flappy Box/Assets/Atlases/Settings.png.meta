@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 25cf0c5f6bdb09445810392a30f0fcf8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: redbox (Settings)
+    21300002: reset (Settings)
+    21300004: aboutus (Settings)
+    21300006: aboutus_click (Settings)
+    21300008: reset_click (Settings)
+    21300010: Missing
+    21300012: Missing
+    21300014: option (Settings)
+    21300016: Home (Settings)
+    21300018: Music_On (Settings)
+    21300020: Home_onpress (Settings)
+    21300022: Sound_on (Settings)
+    21300024: Missing
+    21300026: Missing
+    21300028: on-off (Settings)
+    21300030: back_on-off (Settings)
+    21300032: Sound_Off (Settings)
+    21300034: Music_Off (Settings)
+    21300036: dialog (Settings)
+    21300038: ques (Settings)
+    21300040: Missing
+    21300042: no (Settings)
+    21300044: yes (Settings)
+    21300046: yes_hover (Settings)
+    21300048: no_hover (Settings)
+    21300050: on-off-hover (Settings)
+    21300052: successfully (Settings)
+    21300054: ok_hover (Settings)
+    21300056: ok (Settings)
+    21300058: Missing
+    21300060: wheel (Settings)
+    21300062: reset_word (Settings)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: redbox (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1
+        width: 322
+        height: 502
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reset (Settings)
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 597
+        width: 367
+        height: 122
+      alignment: 9
+      pivot: {x: .49182561, y: .504098356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aboutus (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 618
+        width: 367
+        height: 122
+      alignment: 9
+      pivot: {x: .49182561, y: .504098356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aboutus_click (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 193
+        width: 367
+        height: 123
+      alignment: 9
+      pivot: {x: .49182561, y: .508130074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reset_click (Settings)
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 505
+        width: 366
+        height: 122
+      alignment: 9
+      pivot: {x: .487704933, y: .504098356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: option (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 93
+        width: 298
+        height: 84
+      alignment: 9
+      pivot: {x: .510067105, y: .523809552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home (Settings)
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 721
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: .496453911, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Music_On (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 742
+        width: 195
+        height: 235
+      alignment: 9
+      pivot: {x: .487179488, y: .514893591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home_onpress (Settings)
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 629
+        width: 267
+        height: 267
+      alignment: 9
+      pivot: {x: .471910119, y: .468164802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sound_on (Settings)
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 318
+        width: 217
+        height: 163
+      alignment: 9
+      pivot: {x: .497695863, y: .546012282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .496688753, y: .523178816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .496688753, y: .523178816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: on-off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 505
+        width: 385
+        height: 90
+      alignment: 9
+      pivot: {x: .501298726, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_on-off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1
+        width: 548
+        height: 114
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sound_Off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 93
+        width: 244
+        height: 204
+      alignment: 9
+      pivot: {x: .491803288, y: .480392158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Music_Off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 505
+        width: 244
+        height: 235
+      alignment: 9
+      pivot: {x: .504098356, y: .514893591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 562
+        height: 566
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ques (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 117
+        width: 439
+        height: 74
+      alignment: 9
+      pivot: {x: .510250568, y: .527027011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .514824808, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: no (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 629
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: .494252861, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yes (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 299
+        width: 174
+        height: 82
+      alignment: 9
+      pivot: {x: .494252861, y: .51219511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yes_hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 742
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: .488505751, y: .530864179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: no_hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 898
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: .488505751, y: .530864179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: on-off-hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1
+        width: 385
+        height: 90
+      alignment: 9
+      pivot: {x: .501298726, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: successfully (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 569
+        width: 452
+        height: 47
+      alignment: 9
+      pivot: {x: .515486717, y: .638297856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ok_hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1
+        width: 174
+        height: 82
+      alignment: 9
+      pivot: {x: .494252861, y: .51219511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ok (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 179
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: .494252861, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wheel (Settings)
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 742
+        width: 119
+        height: 119
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reset_word (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 318
+        width: 251
+        height: 39
+      alignment: 9
+      pivot: {x: .521912336, y: .384615391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

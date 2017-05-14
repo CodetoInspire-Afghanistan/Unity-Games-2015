@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: bfa069a35e258454b8b099302502480d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stage_1 (Stages)
+    21300002: numbers_0 (Stages)
+    21300004: back_button (Stages)
+    21300006: Missing
+    21300008: Missing
+    21300010: slot_lock (Stages)
+    21300012: score_button (Stages)
+    21300014: star_level_02 (Stages)
+    21300016: star_level_03 (Stages)
+    21300018: star_level_00 (Stages)
+    21300020: star_level_01 (Stages)
+    21300022: Missing
+    21300024: icon_lock (Stages)
+    21300026: Missing
+    21300028: back_button_click (Stages)
+    21300030: Missing
+    21300032: score_button_click (Stages)
+    21300034: numbers_5 (Stages)
+    21300036: numbers_1 (Stages)
+    21300038: numbers_3 (Stages)
+    21300040: numbers_2 (Stages)
+    21300042: numbers_9 (Stages)
+    21300044: numbers_10 (Stages)
+    21300046: numbers_7 (Stages)
+    21300048: numbers_8 (Stages)
+    21300050: numbers_6 (Stages)
+    21300052: numbers_4 (Stages)
+    21300054: stage_2 (Stages)
+    21300056: next_button (Stages)
+    21300058: Missing
+    21300060: wheel (Stages)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stage_1 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 689
+        height: 201
+      alignment: 9
+      pivot: {x: .505079806, y: .527363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_0 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 122
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_button (Stages)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 407
+        width: 388
+        height: 390
+      alignment: 9
+      pivot: {x: .502577305, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .340206176, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .340206176, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slot_lock (Stages)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 799
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score_button (Stages)
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 252
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_level_02 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 799
+        width: 101
+        height: 46
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_level_03 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 406
+        width: 101
+        height: 46
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_level_00 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 953
+        width: 101
+        height: 46
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_level_01 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 935
+        width: 100
+        height: 46
+      alignment: 9
+      pivot: {x: .495000005, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .515873015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_lock (Stages)
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 252
+        width: 52
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .372881353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .461538464, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_button_click (Stages)
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 407
+        width: 388
+        height: 390
+      alignment: 9
+      pivot: {x: .502577305, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .596491218, y: .502008021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score_button_click (Stages)
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 799
+        width: 133
+        height: 134
+      alignment: 9
+      pivot: {x: .488721818, y: .50746268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_5 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 406
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_1 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 799
+        width: 44
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_3 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 953
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_2 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 935
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_9 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 313
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_10 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 122
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_7 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 176
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_8 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 122
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_6 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 176
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_4 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 454
+        width: 41
+        height: 50
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage_2 (Stages)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 703
+        height: 201
+      alignment: 9
+      pivot: {x: .506401122, y: .527363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: next_button (Stages)
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1
+        width: 171
+        height: 249
+      alignment: 9
+      pivot: {x: .596491218, y: .502008021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wheel (Stages)
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1
+        width: 119
+        height: 119
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

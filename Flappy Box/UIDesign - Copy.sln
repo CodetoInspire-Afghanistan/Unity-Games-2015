@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F14D8A83-1B97-F2F9-51EA-D6F59893A096}") = "UIDesign - Copy", "Assembly-CSharp.csproj", "{4E0E910B-98ED-B7D4-8C7C-48B25572DCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0E910B-98ED-B7D4-8C7C-48B25572DCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0E910B-98ED-B7D4-8C7C-48B25572DCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0E910B-98ED-B7D4-8C7C-48B25572DCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0E910B-98ED-B7D4-8C7C-48B25572DCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

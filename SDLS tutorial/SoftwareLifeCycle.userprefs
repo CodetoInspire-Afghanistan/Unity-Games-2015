@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Music.cs">
+    <Files>
+      <File FileName="SoftwareLifeCycle.sln" Line="1" Column="1" />
+      <File FileName="Assets\Script\Music.cs" Line="28" Column="14" />
+      <File FileName="..\Block Breaker\Assets\Scripts\MusicPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TestController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ProTextController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MainTextController.cs" Line="17" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
