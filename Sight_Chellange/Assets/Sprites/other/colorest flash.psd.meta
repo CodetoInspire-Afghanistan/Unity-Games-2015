@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 8b8e5c12b923ad9419c7248e8bae04b8
+timeCreated: 1473599520
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: colorest flash_0
+    21300002: colorest flash_1
+    21300004: colorest flash_2
+    21300006: colorest flash_3
+    21300008: colorest flash_4
+    21300010: colorest flash_5
+    21300012: colorest flash_6
+    21300014: colorest flash_7
+    21300016: colorest flash_8
+    21300018: colorest flash_9
+    21300020: colorest flash_10
+    21300022: colorest flash_11
+    21300024: colorest flash_12
+    21300026: colorest flash_13
+    21300028: colorest flash_14
+    21300030: colorest flash_15
+    21300032: colorest flash_16
+    21300034: colorest flash_17
+    21300036: colorest flash_18
+    21300038: colorest flash_19
+    21300040: colorest flash_20
+    21300042: colorest flash_21
+    21300044: colorest flash_22
+    21300046: colorest flash_23
+    21300048: colorest flash_24
+    21300050: colorest flash_25
+    21300052: colorest flash_26
+    21300054: colorest flash_27
+    21300056: colorest flash_28
+    21300058: colorest flash_29
+    21300060: colorest flash_30
+    21300062: colorest flash_31
+    21300064: colorest flash_32
+    21300066: colorest flash_33
+    21300068: colorest flash_34
+    21300070: colorest flash_35
+    21300072: colorest flash_36
+    21300074: colorest flash_37
+    21300076: colorest flash_38
+    21300078: colorest flash_39
+    21300080: colorest flash_40
+    21300082: colorest flash_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: colorest flash_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 178
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -13.5}
+        - {x: -15, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 14.5}
+        - {x: 14, y: 16.5}
+    - name: colorest flash_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 173
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21.5}
+        - {x: -22, y: 17.5}
+        - {x: -22, y: -21.5}
+        - {x: 14, y: -21.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 13.5}
+        - {x: 13, y: 21.5}
+    - name: colorest flash_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 172
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 16}
+        - {x: -9.5, y: 15}
+        - {x: -14.5, y: 5}
+        - {x: -14.5, y: -19}
+        - {x: -5.5, y: -30}
+        - {x: 23.5, y: -30}
+        - {x: 28.5, y: -28}
+        - {x: 30.5, y: -27}
+        - {x: 30.5, y: 13}
+        - {x: 23.5, y: 16}
+      - - {x: -21.5, y: 28}
+        - {x: -21.5, y: 30}
+        - {x: -26.5, y: 30}
+        - {x: -24.5, y: 27}
+    - name: colorest flash_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 149
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -39.5}
+        - {x: -16, y: -41.5}
+        - {x: -9, y: -41.5}
+        - {x: -9, y: -39.5}
+        - {x: -12, y: -36.5}
+        - {x: -14, y: -36.5}
+      - - {x: 33, y: -36.5}
+        - {x: 35, y: -38.5}
+        - {x: 36, y: -38.5}
+        - {x: 36, y: -33.5}
+        - {x: 34, y: -33.5}
+      - - {x: 28, y: 24.5}
+        - {x: 9, y: 30.5}
+        - {x: -16, y: 30.5}
+        - {x: -23, y: 11.5}
+        - {x: -23, y: -6.5}
+        - {x: -5, y: -24.5}
+        - {x: 0, y: -24.5}
+        - {x: 2, y: -23.5}
+        - {x: 11, y: -19.5}
+        - {x: 21, y: -18.5}
+        - {x: 28, y: -13.5}
+      - - {x: -25, y: 39.5}
+        - {x: -25, y: 41.5}
+        - {x: -30, y: 41.5}
+        - {x: -28, y: 38.5}
+      - - {x: 31, y: 41.5}
+        - {x: 32, y: 38.5}
+        - {x: 36, y: 38.5}
+        - {x: 36, y: 41.5}
+    - name: colorest flash_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -41}
+        - {x: -8.5, y: -41}
+        - {x: -8.5, y: -38}
+        - {x: -9.5, y: -36}
+        - {x: -14.5, y: -36}
+        - {x: -15.5, y: -38}
+      - - {x: -12.5, y: 27}
+        - {x: -23.5, y: 15}
+        - {x: -23.5, y: -7}
+        - {x: -19.5, y: -10}
+        - {x: -9.5, y: -26}
+        - {x: 6.5, y: -26}
+        - {x: 28.5, y: -21}
+        - {x: 28.5, y: 22}
+        - {x: 27.5, y: 27}
+      - - {x: -5.5, y: 35}
+        - {x: -10.5, y: 35}
+        - {x: -14.5, y: 33}
+        - {x: -14.5, y: 27}
+        - {x: -13.5, y: 23}
+        - {x: -5.5, y: 23}
+        - {x: -3.5, y: 24}
+        - {x: -2.5, y: 27}
+        - {x: -2.5, y: 32}
+    - name: colorest flash_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 147
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -22.5}
+        - {x: -7.5, y: -22.5}
+        - {x: -8.5, y: -25.5}
+        - {x: -8.5, y: -28.5}
+        - {x: -1.5, y: -28.5}
+        - {x: -1.5, y: -23.5}
+      - - {x: -9.5, y: 26.5}
+        - {x: -19.5, y: 16.5}
+        - {x: -19.5, y: -8.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -6.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 13.5}
+        - {x: 17.5, y: 26.5}
+      - - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 27.5, y: -18.5}
+        - {x: 29.5, y: -18.5}
+        - {x: 29.5, y: -10.5}
+        - {x: 27.5, y: -10.5}
+      - - {x: -29.5, y: -1.5}
+        - {x: -29.5, y: -7.5}
+        - {x: -28.5, y: -8.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -23.5, y: -5.5}
+        - {x: -23.5, y: -4.5}
+        - {x: -26.5, y: -1.5}
+      - - {x: 19.5, y: 28.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 21.5, y: 22.5}
+        - {x: 22.5, y: 22.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: 27.5}
+        - {x: 24.5, y: 28.5}
+    - name: colorest flash_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 99
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 19.5}
+        - {x: -19.5, y: 15.5}
+        - {x: -19.5, y: -14.5}
+        - {x: -13.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 19.5, y: -11.5}
+        - {x: 19.5, y: 19.5}
+      - - {x: 15.5, y: -16.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: -13.5}
+        - {x: 18.5, y: -13.5}
+    - name: colorest flash_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 133
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 19.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 19.5, y: -13.5}
+        - {x: 19.5, y: 10.5}
+        - {x: 18.5, y: 15.5}
+    - name: colorest flash_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 108
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 86
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -22}
+        - {x: -13, y: -25}
+        - {x: -7, y: -25}
+        - {x: -7, y: -21}
+        - {x: -9, y: -19}
+        - {x: -10, y: -19}
+      - - {x: 23, y: -7}
+        - {x: 22, y: -9}
+        - {x: 22, y: -13}
+        - {x: 24, y: -14}
+        - {x: 28, y: -14}
+        - {x: 29, y: -11}
+        - {x: 29, y: -9}
+        - {x: 27, y: -7}
+      - - {x: -23, y: 25}
+        - {x: -23, y: -7}
+        - {x: -18, y: -13}
+        - {x: 20, y: -13}
+        - {x: 21, y: -4}
+        - {x: 21, y: 23}
+        - {x: 17, y: 25}
+      - - {x: -36, y: -2}
+        - {x: -34, y: -4}
+        - {x: -31, y: -3}
+        - {x: -31, y: 1}
+        - {x: -33, y: 3}
+        - {x: -36, y: 3}
+      - - {x: 33, y: -1}
+        - {x: 35, y: -3}
+        - {x: 36, y: -3}
+        - {x: 36, y: 2}
+        - {x: 34, y: 2}
+    - name: colorest flash_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 45
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 54
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 48
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 47
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 49
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -19.5}
+        - {x: 13, y: -17.5}
+        - {x: 10, y: -16.5}
+        - {x: 8, y: -19.5}
+      - - {x: 7, y: -3.5}
+        - {x: 5, y: -4.5}
+        - {x: 5, y: -9.5}
+        - {x: 11, y: -9.5}
+        - {x: 11, y: -5.5}
+        - {x: 10, y: -3.5}
+      - - {x: -17, y: 19.5}
+        - {x: -17, y: -5.5}
+        - {x: -1, y: -5.5}
+        - {x: 1, y: 0.5}
+        - {x: 1, y: 19.5}
+    - name: colorest flash_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 26
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 20
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_38
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: colorest flash_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

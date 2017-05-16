@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: b8c787d5a5b68a7459934fb663ef740e
+timeCreated: 1460477513
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: can-stock-photo_csp18230082_0
+    21300002: can-stock-photo_csp18230082_1
+    21300004: can-stock-photo_csp18230082_2
+    21300006: can-stock-photo_csp18230082_3
+    21300008: can-stock-photo_csp18230082_4
+    21300010: can-stock-photo_csp18230082_5
+    21300012: can-stock-photo_csp18230082_6
+    21300014: can-stock-photo_csp18230082_7
+    21300016: can-stock-photo_csp18230082_8
+    21300018: can-stock-photo_csp18230082_9
+    21300020: can-stock-photo_csp18230082_10
+    21300022: can-stock-photo_csp18230082_11
+    21300024: can-stock-photo_csp18230082_12
+    21300026: can-stock-photo_csp18230082_13
+    21300028: can-stock-photo_csp18230082_14
+    21300030: can-stock-photo_csp18230082_15
+    21300032: can-stock-photo_csp18230082_16
+    21300034: can-stock-photo_csp18230082_17
+    21300036: can-stock-photo_csp18230082_18
+    21300038: can-stock-photo_csp18230082_19
+    21300040: can-stock-photo_csp18230082_20
+    21300042: can-stock-photo_csp18230082_21
+    21300044: can-stock-photo_csp18230082_22
+    21300046: can-stock-photo_csp18230082_23
+    21300048: can-stock-photo_csp18230082_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: can-stock-photo_csp18230082_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 381
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 34}
+        - {x: -34.5, y: 29}
+        - {x: -34.5, y: -27}
+        - {x: -25.5, y: -34}
+        - {x: 20.5, y: -34}
+        - {x: 34.5, y: -30}
+        - {x: 34.5, y: 23}
+        - {x: 24.5, y: 34}
+    - name: can-stock-photo_csp18230082_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 381
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 34}
+        - {x: -34.5, y: 19}
+        - {x: -34.5, y: -20}
+        - {x: -21.5, y: -34}
+        - {x: 29.5, y: -34}
+        - {x: 34.5, y: -25}
+        - {x: 34.5, y: 32}
+        - {x: 32.5, y: 34}
+    - name: can-stock-photo_csp18230082_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 381
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 34}
+        - {x: -35, y: 20}
+        - {x: -35, y: -34}
+        - {x: 31, y: -34}
+        - {x: 35, y: -24}
+        - {x: 35, y: 30}
+        - {x: 22, y: 34}
+    - name: can-stock-photo_csp18230082_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 381
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 34}
+        - {x: -34.5, y: 20}
+        - {x: -34.5, y: -30}
+        - {x: -30.5, y: -34}
+        - {x: 21.5, y: -34}
+        - {x: 34.5, y: -28}
+        - {x: 34.5, y: 21}
+        - {x: 21.5, y: 34}
+    - name: can-stock-photo_csp18230082_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 375
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -37}
+        - {x: -28.5, y: -35}
+        - {x: -31.5, y: -34}
+        - {x: -33.5, y: -37}
+      - - {x: 30.5, y: 37}
+        - {x: -22.5, y: 37}
+        - {x: -34.5, y: 33}
+        - {x: -34.5, y: -26}
+        - {x: -20.5, y: -33}
+        - {x: 28.5, y: -33}
+        - {x: 34.5, y: -15}
+        - {x: 34.5, y: 33}
+    - name: can-stock-photo_csp18230082_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 295
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 34.5}
+        - {x: -31.5, y: 21.5}
+        - {x: -34.5, y: 13.5}
+        - {x: -34.5, y: -19.5}
+        - {x: -16.5, y: -34.5}
+        - {x: 20.5, y: -34.5}
+        - {x: 25.5, y: -33.5}
+        - {x: 34.5, y: -19.5}
+        - {x: 34.5, y: 28.5}
+        - {x: 18.5, y: 34.5}
+    - name: can-stock-photo_csp18230082_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 296
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 34}
+        - {x: -34.5, y: 23}
+        - {x: -34.5, y: -29}
+        - {x: -24.5, y: -34}
+        - {x: 24.5, y: -34}
+        - {x: 34.5, y: -27}
+        - {x: 34.5, y: 22}
+        - {x: 29.5, y: 34}
+    - name: can-stock-photo_csp18230082_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 295
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 34.5}
+        - {x: -35, y: 23.5}
+        - {x: -35, y: -21.5}
+        - {x: -20, y: -34.5}
+        - {x: 23, y: -34.5}
+        - {x: 35, y: -24.5}
+        - {x: 35, y: 19.5}
+        - {x: 28, y: 34.5}
+    - name: can-stock-photo_csp18230082_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 296
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 34}
+        - {x: -34.5, y: 33}
+        - {x: -34.5, y: -30}
+        - {x: -24.5, y: -34}
+        - {x: 18.5, y: -34}
+        - {x: 24.5, y: -33}
+        - {x: 34.5, y: -19}
+        - {x: 34.5, y: 27}
+        - {x: 19.5, y: 34}
+    - name: can-stock-photo_csp18230082_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 296
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 34}
+        - {x: -32.5, y: 34}
+        - {x: -34.5, y: 26}
+        - {x: -34.5, y: -25}
+        - {x: -17.5, y: -34}
+        - {x: 20.5, y: -34}
+        - {x: 34.5, y: -21}
+        - {x: 34.5, y: 17}
+        - {x: 27.5, y: 32}
+    - name: can-stock-photo_csp18230082_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 210
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 34.5}
+        - {x: -36, y: -30.5}
+        - {x: -33, y: -34.5}
+        - {x: 28, y: -34.5}
+        - {x: 36, y: -23.5}
+        - {x: 36, y: 21.5}
+        - {x: 32, y: 34.5}
+    - name: can-stock-photo_csp18230082_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 210
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 34}
+        - {x: -36, y: 19}
+        - {x: -36, y: -33}
+        - {x: -33, y: -34}
+        - {x: 36, y: -34}
+        - {x: 36, y: 34}
+    - name: can-stock-photo_csp18230082_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 210
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 34.5}
+        - {x: -35, y: 21.5}
+        - {x: -35, y: -25.5}
+        - {x: -29, y: -34.5}
+        - {x: 26, y: -34.5}
+        - {x: 35, y: -32.5}
+        - {x: 35, y: 27.5}
+        - {x: 20, y: 34.5}
+    - name: can-stock-photo_csp18230082_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 210
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 34}
+        - {x: -34.5, y: 27}
+        - {x: -34.5, y: -26}
+        - {x: -28.5, y: -34}
+        - {x: 21.5, y: -34}
+        - {x: 34.5, y: -27}
+        - {x: 34.5, y: 30}
+        - {x: 25.5, y: 34}
+    - name: can-stock-photo_csp18230082_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 210
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 34.5}
+        - {x: -35.5, y: 26.5}
+        - {x: -35.5, y: -29.5}
+        - {x: -28.5, y: -34.5}
+        - {x: 27.5, y: -34.5}
+        - {x: 35.5, y: -25.5}
+        - {x: 35.5, y: 18.5}
+        - {x: 29.5, y: 34.5}
+    - name: can-stock-photo_csp18230082_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 125
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 34}
+        - {x: -34.5, y: 30}
+        - {x: -34.5, y: -21}
+        - {x: -29.5, y: -34}
+        - {x: 31.5, y: -34}
+        - {x: 34.5, y: -32}
+        - {x: 34.5, y: 26}
+        - {x: 30.5, y: 34}
+    - name: can-stock-photo_csp18230082_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 125
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 34}
+        - {x: -34.5, y: 23}
+        - {x: -34.5, y: -19}
+        - {x: -32.5, y: -25}
+        - {x: -23.5, y: -34}
+        - {x: 26.5, y: -34}
+        - {x: 34.5, y: -24}
+        - {x: 34.5, y: 19}
+        - {x: 29.5, y: 34}
+    - name: can-stock-photo_csp18230082_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 125
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 34}
+        - {x: -35, y: 30}
+        - {x: -35, y: -26}
+        - {x: -22, y: -34}
+        - {x: 21, y: -34}
+        - {x: 35, y: -17}
+        - {x: 35, y: 25}
+        - {x: 34, y: 34}
+    - name: can-stock-photo_csp18230082_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 125
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 34}
+        - {x: -34.5, y: 30}
+        - {x: -34.5, y: -18}
+        - {x: -20.5, y: -34}
+        - {x: 30.5, y: -34}
+        - {x: 34.5, y: -20}
+        - {x: 34.5, y: 28}
+        - {x: 29.5, y: 34}
+    - name: can-stock-photo_csp18230082_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 125
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 34}
+        - {x: -18.5, y: 34}
+        - {x: -29.5, y: 25}
+        - {x: -34.5, y: 19}
+        - {x: -34.5, y: -31}
+        - {x: -24.5, y: -34}
+        - {x: 28.5, y: -34}
+        - {x: 34.5, y: -24}
+        - {x: 34.5, y: 32}
+    - name: can-stock-photo_csp18230082_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 40
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 34}
+        - {x: -23.5, y: 33}
+        - {x: -34.5, y: 26}
+        - {x: -34.5, y: -21}
+        - {x: -28.5, y: -34}
+        - {x: 28.5, y: -34}
+        - {x: 34.5, y: -31}
+        - {x: 34.5, y: 22}
+        - {x: 20.5, y: 34}
+    - name: can-stock-photo_csp18230082_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 40
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 34}
+        - {x: -27.5, y: 32}
+        - {x: -34.5, y: 29}
+        - {x: -34.5, y: -32}
+        - {x: -33.5, y: -34}
+        - {x: 25.5, y: -34}
+        - {x: 34.5, y: -29}
+        - {x: 34.5, y: 28}
+        - {x: 23.5, y: 34}
+    - name: can-stock-photo_csp18230082_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 40
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 34}
+        - {x: -35, y: 19}
+        - {x: -35, y: -18}
+        - {x: -21, y: -34}
+        - {x: 31, y: -34}
+        - {x: 35, y: -23}
+        - {x: 35, y: 30}
+        - {x: 23, y: 34}
+    - name: can-stock-photo_csp18230082_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 40
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 34}
+        - {x: -34.5, y: 23}
+        - {x: -34.5, y: -30}
+        - {x: -32.5, y: -34}
+        - {x: 28.5, y: -34}
+        - {x: 34.5, y: -22}
+        - {x: 34.5, y: 17}
+        - {x: 20.5, y: 34}
+    - name: can-stock-photo_csp18230082_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 40
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 34}
+        - {x: -34.5, y: 19}
+        - {x: -34.5, y: -21}
+        - {x: -33.5, y: -27}
+        - {x: -26.5, y: -34}
+        - {x: 20.5, y: -34}
+        - {x: 34.5, y: -29}
+        - {x: 34.5, y: 17}
+        - {x: 21.5, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

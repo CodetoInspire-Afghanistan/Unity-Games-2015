@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 23fe534b5aa2cea44883acbe7aa0bbb4
+timeCreated: 1462123099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bottun_0
+    21300002: bottun_1
+    21300004: bottun_2
+    21300006: bottun_3
+    21300008: bottun_4
+    21300010: bottun_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bottun_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 210
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -106.5}
+        - {x: -37, y: -106.5}
+        - {x: -38, y: -103.5}
+        - {x: -49, y: -96.5}
+        - {x: -74, y: -96.5}
+        - {x: -85, y: -100.5}
+      - - {x: 24, y: 106.5}
+        - {x: -14, y: 106.5}
+        - {x: -105, y: 20.5}
+        - {x: -105, y: -20.5}
+        - {x: -33, y: -106.5}
+        - {x: 18, y: -106.5}
+        - {x: 105, y: -37.5}
+        - {x: 105, y: 15.5}
+        - {x: 92, y: 37.5}
+      - - {x: 95, y: 52.5}
+        - {x: 95, y: 43.5}
+        - {x: 100, y: 35.5}
+        - {x: 105, y: 35.5}
+        - {x: 105, y: 59.5}
+        - {x: 100, y: 57.5}
+    - name: bottun_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 252
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 59}
+        - {x: -95, y: 59}
+        - {x: -126, y: 28}
+        - {x: -126, y: 7}
+        - {x: -66, y: -59}
+        - {x: 101, y: -59}
+        - {x: 126, y: -49}
+        - {x: 126, y: 10}
+        - {x: 107, y: 40}
+      - - {x: -118, y: -19}
+        - {x: -125, y: -10}
+        - {x: -126, y: -10}
+        - {x: -126, y: -48}
+        - {x: -124, y: -48}
+        - {x: -117, y: -40}
+        - {x: -116, y: -34}
+        - {x: -116, y: -24}
+    - name: bottun_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 63}
+        - {x: -66, y: 63}
+        - {x: -69, y: 60}
+        - {x: -69, y: -57}
+        - {x: -63, y: -63}
+        - {x: 19, y: -63}
+        - {x: 69, y: -9}
+        - {x: 69, y: 17}
+        - {x: 30, y: 47}
+      - - {x: 16, y: 63}
+        - {x: 16, y: 57}
+        - {x: 27, y: 53}
+        - {x: 47, y: 53}
+        - {x: 54, y: 60}
+        - {x: 54, y: 63}
+    - name: bottun_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 25
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 51.5}
+        - {x: -56, y: -45.5}
+        - {x: -51, y: -51.5}
+        - {x: 50, y: -51.5}
+        - {x: 56, y: -43.5}
+        - {x: 56, y: 51.5}
+    - name: bottun_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 175
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.5, y: 35}
+        - {x: -87.5, y: -30}
+        - {x: -82.5, y: -35}
+        - {x: 86.5, y: -35}
+        - {x: 87.5, y: -31}
+        - {x: 87.5, y: 35}
+    - name: bottun_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 25
+        width: 175
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.5, y: 38}
+        - {x: -87.5, y: -38}
+        - {x: 87.5, y: -38}
+        - {x: 87.5, y: 38}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

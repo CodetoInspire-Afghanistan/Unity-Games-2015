@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: c777b9dcf0f98734f86806cc02685f27
+timeCreated: 1462122851
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_0
+    21300002: button_1
+    21300004: button_2
+    21300006: button_3
+    21300008: button_4
+    21300010: button_5
+    21300012: button_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: button_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 224
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 107.5}
+        - {x: 31, y: 108.5}
+        - {x: 26, y: 110.5}
+        - {x: -35, y: 110.5}
+        - {x: -57, y: 107.5}
+        - {x: -104, y: 59.5}
+        - {x: -112, y: 33.5}
+        - {x: -112, y: -45.5}
+        - {x: -63, y: -109.5}
+        - {x: -57, y: -110.5}
+        - {x: 37, y: -110.5}
+        - {x: 65, y: -106.5}
+        - {x: 101, y: -60.5}
+        - {x: 112, y: -40.5}
+        - {x: 112, y: 34.5}
+      - - {x: 100, y: -72.5}
+        - {x: 99, y: -74.5}
+        - {x: 100, y: -77.5}
+        - {x: 104, y: -77.5}
+        - {x: 107, y: -76.5}
+        - {x: 107, y: -73.5}
+        - {x: 105, y: -72.5}
+      - - {x: 92, y: -76.5}
+        - {x: 95, y: -75.5}
+        - {x: 95, y: -72.5}
+        - {x: 92, y: -71.5}
+        - {x: 90, y: -73.5}
+      - - {x: 105, y: -54.5}
+        - {x: 105, y: -55.5}
+        - {x: 107, y: -57.5}
+        - {x: 108, y: -57.5}
+        - {x: 111, y: -54.5}
+        - {x: 111, y: -52.5}
+        - {x: 108, y: -51.5}
+    - name: button_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 178
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 82.5}
+        - {x: -44.5, y: 57.5}
+        - {x: -44.5, y: 12.5}
+        - {x: -25.5, y: -67.5}
+        - {x: -13.5, y: -82.5}
+        - {x: 16.5, y: -82.5}
+        - {x: 34.5, y: -68.5}
+        - {x: 51.5, y: -0.5}
+        - {x: 51.5, y: 61.5}
+        - {x: 29.5, y: 82.5}
+      - - {x: -48.5, y: -58.5}
+        - {x: -48.5, y: -55.5}
+        - {x: -51.5, y: -54.5}
+        - {x: -51.5, y: -59.5}
+      - - {x: 47.5, y: -48.5}
+        - {x: 48.5, y: -55.5}
+        - {x: 50.5, y: -57.5}
+        - {x: 51.5, y: -57.5}
+        - {x: 51.5, y: -32.5}
+        - {x: 48.5, y: -33.5}
+    - name: button_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 175
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 81}
+        - {x: -8.5, y: 81}
+        - {x: -24.5, y: 63}
+        - {x: -51.5, y: -16}
+        - {x: -51.5, y: -69}
+        - {x: -42.5, y: -81}
+        - {x: 36.5, y: -81}
+        - {x: 51.5, y: -64}
+        - {x: 51.5, y: -8}
+        - {x: 23.5, y: 77}
+      - - {x: -51.5, y: 50}
+        - {x: -51.5, y: 19}
+        - {x: -48.5, y: 20}
+        - {x: -47.5, y: 22}
+        - {x: -47.5, y: 46}
+        - {x: -48.5, y: 50}
+    - name: button_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 47.5}
+        - {x: -48, y: 40.5}
+        - {x: -48, y: -38.5}
+        - {x: -47, y: -47.5}
+        - {x: 43, y: -47.5}
+        - {x: 48, y: -35.5}
+        - {x: 48, y: 43.5}
+        - {x: 43, y: 47.5}
+    - name: button_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 22
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 48.5}
+        - {x: -56.5, y: 28.5}
+        - {x: -56.5, y: -4.5}
+        - {x: -34.5, y: -30.5}
+        - {x: -9.5, y: -47.5}
+        - {x: -7.5, y: -48.5}
+        - {x: 56.5, y: -48.5}
+        - {x: 56.5, y: 35.5}
+        - {x: 40.5, y: 48.5}
+    - name: button_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 54}
+        - {x: -53.5, y: 37}
+        - {x: -53.5, y: -28}
+        - {x: -23.5, y: -54}
+        - {x: 28.5, y: -54}
+        - {x: 53.5, y: -29}
+        - {x: 53.5, y: 21}
+        - {x: 36.5, y: 54}
+    - name: button_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 23
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 49.5}
+        - {x: -50, y: 37.5}
+        - {x: -50, y: -33.5}
+        - {x: -49, y: -39.5}
+        - {x: -42, y: -49.5}
+        - {x: 43, y: -49.5}
+        - {x: 50, y: -41.5}
+        - {x: 50, y: 46.5}
+        - {x: 40, y: 49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

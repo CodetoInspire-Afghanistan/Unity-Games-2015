@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 6176e1d455573d947b54f34d97668578
+timeCreated: 1461220414
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GamePoliceMan_0
+    21300002: GamePoliceMan_1
+    21300004: GamePoliceMan_2
+    21300006: GamePoliceMan_3
+    21300008: GamePoliceMan_4
+    21300010: GamePoliceMan_5
+    21300012: GamePoliceMan_6
+    21300014: GamePoliceMan_7
+    21300016: GamePoliceMan_8
+    21300018: GamePoliceMan_9
+    21300020: GamePoliceMan_10
+    21300022: GamePoliceMan_11
+    21300024: GamePoliceMan_12
+    21300026: GamePoliceMan_13
+    21300028: GamePoliceMan_14
+    21300030: GamePoliceMan_15
+    21300032: GamePoliceMan_16
+    21300034: GamePoliceMan_17
+    21300036: GamePoliceMan_18
+    21300038: GamePoliceMan_19
+    21300040: GamePoliceMan_20
+    21300042: GamePoliceMan_21
+    21300044: GamePoliceMan_22
+    21300046: GamePoliceMan_23
+    21300048: GamePoliceMan_24
+    21300050: GamePoliceMan_25
+    21300052: GamePoliceMan_26
+    21300054: GamePoliceMan_27
+    21300056: GamePoliceMan_28
+    21300058: GamePoliceMan_29
+    21300060: GamePoliceMan_30
+    21300062: GamePoliceMan_31
+    21300064: GamePoliceMan_32
+    21300066: GamePoliceMan_33
+    21300068: GamePoliceMan_34
+    21300070: GamePoliceMan_35
+    21300072: GamePoliceMan_36
+    21300074: GamePoliceMan_37
+    21300076: GamePoliceMan_38
+    21300078: GamePoliceMan_39
+    21300080: GamePoliceMan_40
+    21300082: GamePoliceMan_41
+    21300084: GamePoliceMan_42
+    21300086: GamePoliceMan_43
+    21300088: GamePoliceMan_44
+    21300090: GamePoliceMan_45
+    21300092: GamePoliceMan_46
+    21300094: GamePoliceMan_47
+    21300096: GamePoliceMan_48
+    21300098: GamePoliceMan_49
+    21300100: GamePoliceMan_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GamePoliceMan_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 218
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 219
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 221
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 218
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 219
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 221
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 218
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 218
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 219
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 219
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 219
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 220
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 219
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 218
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 218
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 219
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 219
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 219
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 119
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 121
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 120
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 23
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 117
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 119
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 117
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 118
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 119
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_30
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 118
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 36}
+        - {x: -22.5, y: -36}
+        - {x: 22.5, y: -36}
+        - {x: 22.5, y: 36}
+    - name: GamePoliceMan_31
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 117
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 36.5}
+        - {x: -16, y: 36.5}
+        - {x: -16, y: -21.5}
+        - {x: -13, y: -36.5}
+        - {x: 16, y: -36.5}
+        - {x: 16, y: 24.5}
+        - {x: 3, y: 35.5}
+    - name: GamePoliceMan_32
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 118
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 36}
+        - {x: -19, y: 36}
+        - {x: -19, y: -22}
+        - {x: -4, y: -36}
+        - {x: -1, y: -36}
+        - {x: 3, y: -25}
+        - {x: 3, y: -22}
+        - {x: 1, y: -18}
+        - {x: 2, y: -20}
+        - {x: 6, y: -25}
+        - {x: 10, y: -36}
+        - {x: 18, y: -36}
+        - {x: 19, y: -34}
+        - {x: 19, y: -13}
+        - {x: -1, y: 34}
+    - name: GamePoliceMan_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 118
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 36}
+        - {x: -23, y: -34}
+        - {x: -20, y: -36}
+        - {x: 23, y: -36}
+        - {x: 23, y: 29}
+        - {x: 0, y: 36}
+    - name: GamePoliceMan_34
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 118
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -29}
+        - {x: 14, y: -29}
+        - {x: 16, y: -28}
+        - {x: 16, y: -5}
+        - {x: 13, y: 15}
+        - {x: -2, y: 36}
+        - {x: -16, y: 36}
+        - {x: -16, y: -2}
+        - {x: -4, y: -36}
+        - {x: 8, y: -36}
+        - {x: 10, y: -34}
+        - {x: 10, y: -27}
+    - name: GamePoliceMan_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 119
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 35.5}
+        - {x: -18.5, y: -22.5}
+        - {x: -8.5, y: -35.5}
+        - {x: -5.5, y: -35.5}
+        - {x: 5.5, y: -27.5}
+        - {x: 3.5, y: -22.5}
+        - {x: 2.5, y: -19.5}
+        - {x: -0.5, y: -15.5}
+        - {x: -1.5, y: -13.5}
+        - {x: 2.5, y: -17.5}
+        - {x: 2.5, y: -18.5}
+        - {x: 10.5, y: -35.5}
+        - {x: 18.5, y: -35.5}
+        - {x: 18.5, y: 6.5}
+        - {x: 3.5, y: 35.5}
+    - name: GamePoliceMan_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -16, y: -38}
+        - {x: 13, y: -38}
+        - {x: 15, y: -37}
+        - {x: 16, y: -36}
+        - {x: 16, y: 38}
+    - name: GamePoliceMan_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 38}
+        - {x: -17, y: 29}
+        - {x: -17, y: -12}
+        - {x: -10, y: -36}
+        - {x: -9, y: -38}
+        - {x: 13, y: -38}
+        - {x: 17, y: -26}
+        - {x: 17, y: 27}
+        - {x: 15, y: 38}
+    - name: GamePoliceMan_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 38}
+        - {x: -16, y: 26}
+        - {x: -16, y: 4}
+        - {x: -6, y: -38}
+        - {x: 15, y: -38}
+        - {x: 16, y: -35}
+        - {x: 16, y: 38}
+    - name: GamePoliceMan_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 18
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 18
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 36.5}
+        - {x: 8, y: 38.5}
+        - {x: -9, y: 38.5}
+        - {x: -8, y: 32.5}
+        - {x: -17, y: 17.5}
+        - {x: -17, y: -3.5}
+        - {x: -13, y: -38.5}
+        - {x: 10, y: -38.5}
+        - {x: 17, y: -18.5}
+        - {x: 17, y: 15.5}
+        - {x: 15, y: 22.5}
+    - name: GamePoliceMan_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 18
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_45
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 18
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_46
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 18
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 18
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_48
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 18
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_49
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 18
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GamePoliceMan_50
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 18
+        width: 24
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

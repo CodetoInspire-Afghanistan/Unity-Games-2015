@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8BE24EEB-B465-F828-CCF4-074CF3A79534}") = "Super Jet  (SJ)Latest", "Assembly-CSharp.csproj", "{ADA9AFC1-4613-4AF9-9CF1-931C962745F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA9AFC1-4613-4AF9-9CF1-931C962745F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA9AFC1-4613-4AF9-9CF1-931C962745F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA9AFC1-4613-4AF9-9CF1-931C962745F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA9AFC1-4613-4AF9-9CF1-931C962745F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

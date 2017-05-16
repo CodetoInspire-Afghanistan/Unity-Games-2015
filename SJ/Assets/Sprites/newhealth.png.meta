@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: a71f36d48c9accf4487d2a904bd5263e
+timeCreated: 1463411071
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: newhealth_0
+    21300002: newhealth_1
+    21300004: newhealth_2
+    21300006: newhealth_3
+    21300008: newhealth_4
+    21300010: newhealth_5
+    21300012: newhealth_6
+    21300014: newhealth_7
+    21300016: newhealth_8
+    21300018: newhealth_9
+    21300020: newhealth_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: newhealth_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1156
+        width: 446
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164.38303, y: 32.655457}
+        - {x: -179.38303, y: 25.655457}
+        - {x: -179.38303, y: -32.344543}
+        - {x: 64.616974, y: -32.344543}
+        - {x: 180.61697, y: -20.344543}
+        - {x: 180.61697, y: 20.655457}
+        - {x: 10.616974, y: 32.655457}
+    - name: newhealth_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1070
+        width: 445
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173.07928, y: 32.531433}
+        - {x: -179.07928, y: 22.531433}
+        - {x: -179.07928, y: -31.468567}
+        - {x: -177.07928, y: -32.468567}
+        - {x: 66.920715, y: -32.468567}
+        - {x: 179.92072, y: -20.468567}
+        - {x: 179.92072, y: 22.531433}
+        - {x: 77.920715, y: 32.531433}
+    - name: newhealth_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 979
+        width: 446
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166.16797, y: 33.88855}
+        - {x: -179.16797, y: 23.88855}
+        - {x: -179.16797, y: -32.11145}
+        - {x: 7.8320312, y: -32.11145}
+        - {x: 165.83203, y: -21.11145}
+        - {x: 180.83203, y: -15.11145}
+        - {x: 180.83203, y: 23.88855}
+        - {x: 16.832031, y: 33.88855}
+    - name: newhealth_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 886
+        width: 447
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.541595, y: 32.638184}
+        - {x: -173.5416, y: 32.638184}
+        - {x: -179.5416, y: 18.638184}
+        - {x: -179.5416, y: -20.361816}
+        - {x: -178.5416, y: -21.361816}
+        - {x: -166.5416, y: -32.361816}
+        - {x: 0.45840454, y: -32.361816}
+        - {x: 165.4584, y: -21.361816}
+        - {x: 180.4584, y: -15.361816}
+        - {x: 180.4584, y: 16.638184}
+        - {x: 167.4584, y: 21.638184}
+    - name: newhealth_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 795
+        width: 447
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.73782, y: 34.4953}
+        - {x: -179.73782, y: -28.5047}
+        - {x: -171.73782, y: -32.5047}
+        - {x: 62.262177, y: -32.5047}
+        - {x: 180.26218, y: -21.5047}
+        - {x: 180.26218, y: 26.4953}
+        - {x: 177.26218, y: 34.4953}
+    - name: newhealth_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 702
+        width: 447
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173.52277, y: 32.744934}
+        - {x: -179.52277, y: 21.744934}
+        - {x: -179.52277, y: -31.255066}
+        - {x: -178.52277, y: -32.255066}
+        - {x: 59.477234, y: -32.255066}
+        - {x: 180.47723, y: -19.255066}
+        - {x: 180.47723, y: 22.744934}
+        - {x: 61.477234, y: 32.744934}
+    - name: newhealth_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 608
+        width: 447
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.496094, y: 33.190735}
+        - {x: -162.5039, y: 33.190735}
+        - {x: -179.5039, y: 24.190735}
+        - {x: -179.5039, y: -26.809265}
+        - {x: -168.5039, y: -31.809265}
+        - {x: 46.496094, y: -31.809265}
+        - {x: 156.4961, y: -21.809265}
+        - {x: 180.4961, y: -16.809265}
+        - {x: 180.4961, y: 21.190735}
+    - name: newhealth_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 514
+        width: 446
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.818695, y: 32.636597}
+        - {x: -179.1813, y: 32.636597}
+        - {x: -179.1813, y: -21.363403}
+        - {x: -169.1813, y: -32.363403}
+        - {x: 17.818695, y: -32.363403}
+        - {x: 179.8187, y: -19.363403}
+        - {x: 179.8187, y: 18.636597}
+        - {x: 159.8187, y: 22.636597}
+    - name: newhealth_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 414
+        width: 447
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176.1413, y: 33.759827}
+        - {x: -179.8587, y: 33.759827}
+        - {x: -179.8587, y: -18.240173}
+        - {x: -174.8587, y: -28.240173}
+        - {x: -160.8587, y: -32.240173}
+        - {x: -43.858704, y: -32.240173}
+        - {x: 180.1413, y: -20.240173}
+        - {x: 180.1413, y: 26.759827}
+    - name: newhealth_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 315
+        width: 446
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.25116, y: 32.686813}
+        - {x: -179.25116, y: -32.313187}
+        - {x: -60.25116, y: -32.313187}
+        - {x: 180.74884, y: -19.313187}
+        - {x: 180.74884, y: 30.686813}
+        - {x: 179.74884, y: 32.686813}
+    - name: newhealth_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 226
+        width: 447
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5714417, y: 33.65149}
+        - {x: -163.42856, y: 33.65149}
+        - {x: -179.42856, y: 26.65149}
+        - {x: -179.42856, y: -25.34851}
+        - {x: -162.42856, y: -32.34851}
+        - {x: -3.4285583, y: -32.34851}
+        - {x: 139.57144, y: -23.34851}
+        - {x: 180.57144, y: -17.34851}
+        - {x: 180.57144, y: 21.65149}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
