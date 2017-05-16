@@ -1,0 +1,42 @@
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Admin\Desktop\Circles\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Admin\Desktop\Circles\obj\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Circles\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\Circles\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\GAME Projects\Sliding Ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\GAME Projects\Sliding Ball\obj\Debug\Assembly-CSharp.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Assembly-CSharp.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEditor.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEngine.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEngine.UI.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Mono.Cecil.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Unity.DataContract.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Unity.CecilTools.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEngine.xml
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEditor.xml
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEngine.UI.xml
+E:\GAME Projects\Sliding Ball\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\GAME Projects\Sliding Ball\obj\Debug\Assembly-CSharp.pdb

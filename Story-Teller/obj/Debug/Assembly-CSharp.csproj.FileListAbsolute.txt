@@ -1,0 +1,113 @@
+G:\Story-Teller\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Story-Teller\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Story-Teller\Temp\bin\Debug\UnityEditor.dll
+G:\Story-Teller\Temp\bin\Debug\UnityEngine.dll
+G:\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\Story-Teller\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Story-Teller\Temp\bin\Debug\Mono.Cecil.dll
+G:\Story-Teller\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Story-Teller\Temp\bin\Debug\Unity.DataContract.dll
+G:\Story-Teller\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\Story-Teller\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\Story-Teller\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Story-Teller\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\Story-Teller\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\Story-Teller\Temp\bin\Debug\UnityEngine.xml
+G:\Story-Teller\Temp\bin\Debug\UnityEditor.xml
+G:\Story-Teller\Temp\bin\Debug\UnityEngine.UI.xml
+G:\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\Story-Teller\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\Story-Teller\obj\Debug\Assembly-CSharp.dll
+G:\Story-Teller\obj\Debug\Assembly-CSharp.pdb
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Assembly-CSharp.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEditor.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEngine.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEngine.UI.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Mono.Cecil.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Unity.DataContract.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Unity.CecilTools.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEngine.xml
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEditor.xml
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEngine.UI.xml
+G:\UnityProject\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\UnityProject\Story-Teller\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\UnityProject\Story-Teller\obj\Debug\Assembly-CSharp.dll
+G:\UnityProject\Story-Teller\obj\Debug\Assembly-CSharp.pdb
+E:\Story-Teller\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Story-Teller\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Story-Teller\Temp\bin\Debug\UnityEditor.dll
+E:\Story-Teller\Temp\bin\Debug\UnityEngine.dll
+E:\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Story-Teller\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Story-Teller\Temp\bin\Debug\Mono.Cecil.dll
+E:\Story-Teller\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Story-Teller\Temp\bin\Debug\Unity.DataContract.dll
+E:\Story-Teller\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Story-Teller\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Story-Teller\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Story-Teller\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Story-Teller\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Story-Teller\Temp\bin\Debug\UnityEngine.xml
+E:\Story-Teller\Temp\bin\Debug\UnityEditor.xml
+E:\Story-Teller\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Story-Teller\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Story-Teller\obj\Debug\Assembly-CSharp.dll
+E:\Story-Teller\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\ArabicSupport.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\obj\Debug\Assembly-CSharp.dll
+C:\Users\Hasina\Videos\Origin Story Teller\Story-Teller\obj\Debug\Assembly-CSharp.pdb
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Assembly-CSharp.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\ArabicSupport.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\mscorlib.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEditor.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEngine.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEngine.UI.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Mono.Cecil.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Unity.DataContract.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Unity.CecilTools.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEngine.xml
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEditor.xml
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEngine.UI.xml
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\normidna.nlp
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\normnfc.nlp
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\normnfd.nlp
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\normnfkc.nlp
+D:\MyGames\CurrentST\Story-Teller\Temp\bin\Debug\normnfkd.nlp
+D:\MyGames\CurrentST\Story-Teller\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\MyGames\CurrentST\Story-Teller\obj\Debug\Assembly-CSharp.dll
+D:\MyGames\CurrentST\Story-Teller\obj\Debug\Assembly-CSharp.pdb
