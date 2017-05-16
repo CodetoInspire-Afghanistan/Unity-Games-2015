@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 05412f351927dde4a9dc470ed2fc1a2e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Missing
+    21300002: Missing
+    21300004: Missing
+    21300006: Missing
+    21300008: hundw (AboutUs)
+    21300010: Missing
+    21300012: Missing
+    21300014: Missing
+    21300016: Missing
+    21300018: ver (AboutUs)
+    21300020: Missing
+    21300022: Missing
+    21300024: aboutUsBackHover (AboutUs)
+    21300026: aboutUsBack (AboutUs)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .502392352, y: .508250833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .571428597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .513043463, y: .476190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .514285743, y: .476190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hundw (AboutUs)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 574
+        width: 207
+        height: 107
+      alignment: 9
+      pivot: {x: .507246375, y: .476635516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .492146611, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .486631006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .563291132, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .496598631, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ver (AboutUs)
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 105
+        height: 21
+      alignment: 9
+      pivot: {x: .495238096, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .50248754, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aboutUsBackHover (AboutUs)
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 205
+        height: 570
+      alignment: 9
+      pivot: {x: .521951199, y: .496491224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aboutUsBack (AboutUs)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 205
+        height: 571
+      alignment: 9
+      pivot: {x: .521951199, y: .497373044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 1c38d0130274ae84588a9db4b04be89c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Missing
+    21300002: Missing
+    21300004: Score&TopScore_button_onpress (Game)
+    21300006: Missing
+    21300008: Setting_button_onclick (Game)
+    21300010: Score&TopScore_button_onclick (Game)
+    21300012: Missing
+    21300014: Score&TopScore_button (Game)
+    21300016: Missing
+    21300018: Missing
+    21300020: Missing
+    21300022: Missing
+    21300024: Missing
+    21300026: Missing
+    21300028: Missing
+    21300030: Missing
+    21300032: Missing
+    21300034: wheel (Game)
+    21300036: Try_Again (Game)
+    21300038: you_win (Game)
+    21300040: Try_Again_Onpress (Game)
+    21300042: star_big_center (Game)
+    21300044: Score (Game)
+    21300046: star_big_center_bg (Game)
+    21300048: Home (Game)
+    21300050: Home_onpress (Game)
+    21300052: Pause_Text (Game)
+    21300054: Missing
+    21300056: Missing
+    21300058: Missing
+    21300060: Missing
+    21300062: Missing
+    21300064: win-star (Game)
+    21300066: Missing
+    21300068: stage (Game)
+    21300070: stage_hover (Game)
+    21300072: back_hover (Game)
+    21300074: back (Game)
+    21300076: cont_hover (Game)
+    21300078: cont (Game)
+    21300080: miniDialog (Game)
+    21300082: opps (Game)
+    21300084: Missing
+    21300086: closebutton (Game)
+    21300088: closebutton_hover (Game)
+    21300090: pause_hover (Game)
+    21300092: pause (Game)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Score&TopScore_button_onpress (Game)
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 402
+        width: 179
+        height: 82
+      alignment: 9
+      pivot: {x: .530726254, y: .439024389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .525773168, y: .474226803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Setting_button_onclick (Game)
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 819
+        width: 194
+        height: 194
+      alignment: 9
+      pivot: {x: .525773168, y: .474226803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Score&TopScore_button_onclick (Game)
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 270
+        width: 179
+        height: 82
+      alignment: 9
+      pivot: {x: .530726254, y: .439024389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .704545438, y: .549356222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Score&TopScore_button (Game)
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 116
+        width: 179
+        height: 82
+      alignment: 9
+      pivot: {x: .530726254, y: .439024389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .525773168, y: .474226803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .502145946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wheel (Game)
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 354
+        width: 119
+        height: 119
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Try_Again (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 570
+        width: 283
+        height: 284
+      alignment: 9
+      pivot: {x: .501766801, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: you_win (Game)
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 539
+        height: 113
+      alignment: 9
+      pivot: {x: .500927627, y: .424778759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Try_Again_Onpress (Game)
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 230
+        width: 259
+        height: 263
+      alignment: 9
+      pivot: {x: .486486495, y: .460076034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_big_center (Game)
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 495
+        width: 160
+        height: 154
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Score (Game)
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1
+        width: 301
+        height: 68
+      alignment: 9
+      pivot: {x: .495016605, y: .485294104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_big_center_bg (Game)
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 486
+        width: 143
+        height: 133
+      alignment: 9
+      pivot: {x: .496503502, y: .48120302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home (Game)
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 116
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: .496453911, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home_onpress (Game)
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1
+        width: 267
+        height: 267
+      alignment: 9
+      pivot: {x: .471910119, y: .468164802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pause_Text (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 820
+        height: 227
+      alignment: 9
+      pivot: {x: .5, y: .427312762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .510416687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .515350878, y: .497549027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: -.107142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: win-star (Game)
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 495
+        width: 238
+        height: 240
+      alignment: 9
+      pivot: {x: .491596639, y: .504166663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .486666679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage (Game)
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 651
+        width: 113
+        height: 115
+      alignment: 9
+      pivot: {x: .504424751, y: .495652169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stage_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1
+        width: 107
+        height: 104
+      alignment: 9
+      pivot: {x: .514018714, y: .451923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 819
+        width: 144
+        height: 141
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back (Game)
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 270
+        width: 144
+        height: 141
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cont_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 402
+        width: 244
+        height: 81
+      alignment: 9
+      pivot: {x: .483606547, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cont (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 856
+        width: 244
+        height: 81
+      alignment: 9
+      pivot: {x: .487704933, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniDialog (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 531
+        height: 338
+      alignment: 9
+      pivot: {x: .521657228, y: .538461566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: opps (Game)
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 737
+        width: 161
+        height: 55
+      alignment: 9
+      pivot: {x: .503105581, y: .563636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .515350878, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: closebutton (Game)
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 570
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: .50612247, y: .497975707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: closebutton_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 71
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: .50612247, y: .497975707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pause_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 737
+        width: 143
+        height: 144
+      alignment: 9
+      pivot: {x: .496503502, y: .493055552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pause (Game)
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 200
+        width: 143
+        height: 144
+      alignment: 9
+      pivot: {x: .496503502, y: .493055552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

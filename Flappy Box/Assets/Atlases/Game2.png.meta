@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 1fe57607b46cd9642873872784bece96
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cloud_big (Game2)
+    21300002: the-link (Game2)
+    21300004: the-link-hover (Game2)
+    21300006: yellow_line (Game2)
+    21300008: Missing
+    21300010: Missing
+    21300012: Missing
+    21300014: level_back (Game2)
+    21300016: mission (Game2)
+    21300018: Missing
+    21300020: Missing
+    21300022: back_button  (Game2)
+    21300024: back_button_hover (Game2)
+    21300026: Missing
+    21300028: Missing
+    21300030: name (Game2)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cloud_big (Game2)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 280
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .452054799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: the-link (Game2)
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 192
+        width: 245
+        height: 81
+      alignment: 9
+      pivot: {x: .485714287, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: the-link-hover (Game2)
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 78
+        width: 245
+        height: 81
+      alignment: 9
+      pivot: {x: .485714287, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yellow_line (Game2)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 548
+        height: 30
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .492385775, y: .489795923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .492385775, y: .489795923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .492385775, y: .489795923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: level_back (Game2)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 146
+        height: 84
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mission (Game2)
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 193
+        height: 40
+      alignment: 9
+      pivot: {x: .512953341, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .542105258, y: .497950822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .516233742, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_button  (Game2)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 306
+        height: 113
+      alignment: 9
+      pivot: {x: .493464053, y: .469026536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_button_hover (Game2)
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 78
+        width: 304
+        height: 112
+      alignment: 9
+      pivot: {x: .490131587, y: .482142866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .503275096, y: .51886791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .493406594, y: .508438826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: name (Game2)
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1
+        width: 331
+        height: 75
+      alignment: 9
+      pivot: {x: .509063423, y: .50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
