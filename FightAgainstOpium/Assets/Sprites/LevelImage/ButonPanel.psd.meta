@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 473d7034ab90061459459d323a53437f
+timeCreated: 1489814421
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ButtonPanel_0
+    21300002: ButtonPanel_1
+    21300004: ButtonPanel_2
+    21300006: ButtonPanel_3
+    21300008: ButtonPanel_4
+    21300010: ButtonPanel_5
+    21300012: ButtonPanel_6
+    21300014: ButtonPanel_7
+    21300016: ButtonPanel_8
+    21300018: ButtonPanel_9
+    21300020: ButtonPanel_10
+    21300022: ButtonPanel_11
+    21300024: ButtonPanel_12
+    21300026: ButtonPanel_13
+    21300028: ButtonPanel_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonPanel_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 963
+        width: 217
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 857
+        width: 606
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_2
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 857
+        width: 165
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_3
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 857
+        width: 165
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 858
+        width: 217
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 753
+        width: 217
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 647
+        width: 607
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_7
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 648
+        width: 397
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 647
+        width: 217
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 154
+        width: 217
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 154
+        width: 607
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 594
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 378
+        width: 226
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_13
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 246
+        width: 382
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButtonPanel_14
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 154
+        width: 382
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
